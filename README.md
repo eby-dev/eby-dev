@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [Skripsi](https://github.com/eby8zevin/skripsi)
 - 🌱 I’m currently learning Android Studio
 - 👯 I’m looking to collaborate on on open source Skripsi project
-- 🤔 I’m looking for help with my one of open source project (Skripsi)
+- 🤔 I’m looking for help with my one of open source project [Skripsi](https://github.com/eby8zevin/skripsi)
 - 💬 Ask me about [here](https://github.com/eby8zevin/eby8zevin/issues)
 - 📫 How to reach me: [Github](https://github.com/eby8zevin)
 - 😄 Pronouns: He / him
