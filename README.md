@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-:heart:
-
 ##### MOTTO
-> while( ! (succeed = try( ) ) );
+> while ( ! (succeed = try( ) ) );
+
+:heart:
 
 <a href="https://github.com/eby8zevin/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=eby8zevin&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Ahmad Abu Hasan's github stats" />
