@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-Hi, I'm Ahmad Abu Hasan, a passionate self-taught android developer from Indonesia.
+I'm Ahmad Abu Hasan, a passionate self-taught android developer from Indonesia.
 
 - 🔭 I’m currently working on [Skripsi](https://github.com/eby8zevin/skripsi)
 - 🌱 I’m currently learning Android Studio
