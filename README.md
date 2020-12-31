@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <!-- Change the `github-readme-stats.eby8zevin.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eby8zevin&repo=Skripsi&theme=dark" />
 </a>    
-<a href="https://github.com/eby8zevin/eby8zevin.github.io">
+<a href="https://eby8zevin.github.io">
   <!-- Change the `github-readme-stats.eby8zevin.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eby8zevin&repo=eby8zevin.github.io&theme=dark" />
 </a>
