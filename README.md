@@ -8,6 +8,8 @@ Here are some ideas to get you started:
 
 I'm Ahmad Abu Hasan, a passionate self-taught android developer from Indonesia.
 
+![](https://komarev.com/ghpvc/?username=eby8zevin&color=brightgreen&label=Profile+Views)
+
 - 🔭 I’m currently working on [Skripsi](https://github.com/eby8zevin/skripsi)
 - 🌱 I’m currently learning Android Studio
 - 👯 I’m looking to collaborate on on open source Skripsi project
@@ -22,19 +24,6 @@ I'm Ahmad Abu Hasan, a passionate self-taught android developer from Indonesia.
 
 :heart:
 
-<a href="https://github.com/eby8zevin/github-readme-stats">
+<a href="https://github.com/eby8zevin">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=eby8zevin&show_icons=true&theme=dark" alt="Ahmad Abu Hasan's github stats" />
-</a>
-<a href="https://github.com/eby8zevin/github-readme-stats">
-  <!-- Change the `github-readme-stats.eby8zevin.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eby8zevin&layout=compact&theme=dark" />
-</a>
-
-<a href="https://github.com/eby8zevin/skripsi">
-  <!-- Change the `github-readme-stats.eby8zevin.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eby8zevin&repo=Skripsi&theme=dark" />
-</a>    
-<a href="https://eby8zevin.github.io">
-  <!-- Change the `github-readme-stats.eby8zevin.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eby8zevin&repo=eby8zevin.github.io&theme=dark" />
 </a>
