@@ -2,8 +2,11 @@
 
 <!--
 **eby8zevin/eby8zevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
 Here are some ideas to get you started:
+-->
+
+Hi, I'm Ahmad Abu Hasan, a passionate self-taught android developer from Indonesia.
 
 - 🔭 I’m currently working on [Skripsi](https://github.com/eby8zevin/skripsi)
 - 🌱 I’m currently learning Android Studio
