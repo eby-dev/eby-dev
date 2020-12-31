@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 :heart:
 
 <a href="https://github.com/eby8zevin/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eby8zevin&show_icons=true&include_all_commits=true&theme=dark" alt="Ahmad Abu Hasan's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eby8zevin&show_icons=true&theme=dark" alt="Ahmad Abu Hasan's github stats" />
 </a>
 <a href="https://github.com/eby8zevin/github-readme-stats">
   <!-- Change the `github-readme-stats.eby8zevin.vercel.app` to `github-readme-stats.vercel.app`  -->
