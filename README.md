@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/eby8zevin/skripsi">
   <!-- Change the `github-readme-stats.eby8zevin.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eby8zevin&repo=android-VolleyGson&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eby8zevin&repo=Skripsi&theme=dark" />
 </a>    
 <a href="https://github.com/eby8zevin/eby8zevin.github.io">
   <!-- Change the `github-readme-stats.eby8zevin.vercel.app` to `github-readme-stats.vercel.app`  -->
