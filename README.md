@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eby8zevin&layout=compact&theme=dark" />
 </a>
 
-<a href="https://github.com/eby8zevin/github-readme-stats">
+<a href="https://github.com/eby8zevin/skripsi">
   <!-- Change the `github-readme-stats.eby8zevin.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eby8zevin&repo=skripsi&theme=dark" />
 </a>    
