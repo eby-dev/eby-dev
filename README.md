@@ -20,8 +20,9 @@ I'm Ahmad Abu Hasan, a passionate self-taught android developer from Indonesia.
 - ⚡ Fun fact: **Success is not a coincidence!**
 
 ##### MOTTO
-> while ( ! (succeed = try( ) ) );
-
+```
+while ( ! (succeed = try( ) ) );
+```
 :heart:
 
 <p align="center"><a href="https://github.com/eby8zevin">
