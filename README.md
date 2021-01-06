@@ -19,6 +19,10 @@ I'm Ahmad Abu Hasan, a passionate self-taught android developer from Indonesia.
 - 😄 Pronouns: He / him
 - ⚡ Fun fact: **Success is not a coincidence!**
 
+### Spotify Playing 🎧
+
+[<img src="https://spotify-now-playing-ahmadabuhasan.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/gr3y7pr12w9ol2dy2ccdb10e7)
+
 ##### MOTTO
 ```
 while ( ! (succeed = try( ) ) );
