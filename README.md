@@ -7,6 +7,10 @@ Here are some ideas to get you started:
 -->
 
 <p align="left">
+  <a href="https://github.com/eby8zevin" target="_blank">
+    <img src="https://github.com/eby8zevin/eby8zevin/blob/main/assets/GitHub.png" alt="github" width="40" height="40"/>
+  </a>
+  &nbsp;
   <a href="https://developer.android.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   </a>
@@ -18,7 +22,9 @@ Here are some ideas to get you started:
 
 I'm Ahmad Abu Hasan, a passionate self-taught android developer from Indonesia.
 
-![](https://komarev.com/ghpvc/?username=eby8zevin&color=brightgreen&label=Profile+Views) 
+![](https://komarev.com/ghpvc/?username=eby8zevin&color=brightgreen&label=Profile+Views)
+
+<img src="https://github.com/eby8zevin/eby8zevin/blob/main/assets/Octocat.png" width="250" height="250" align='right'>
 
 - 🔭 I’m currently working on [Skripsi](https://github.com/eby8zevin/skripsi)
 - 🌱 I’m currently learning Android Studio
@@ -38,7 +44,7 @@ I'm Ahmad Abu Hasan, a passionate self-taught android developer from Indonesia.
 while ( ! (succeed = try( ) ) );
 ```
 
-<details open>
+<details>
   <summary> 😇 <b>My Github Stats</b>: </summary>
 <p align="center">:heart:</p>
 <p align="center"><a href="https://github.com/eby8zevin">
