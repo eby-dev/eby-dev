@@ -27,8 +27,12 @@ I'm Ahmad Abu Hasan, a passionate self-taught android developer from Indonesia.
 ```
 while ( ! (succeed = try( ) ) );
 ```
-<p align="center">:heart:</p>
 
+<details open>
+  <summary> 😇 <b>My Github Stats</b>: </summary>
+<p align="center">:heart:</p>
 <p align="center"><a href="https://github.com/eby8zevin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eby8zevin&show_icons=true&theme=dark" alt="Ahmad Abu Hasan's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eby8zevin&show_icons=true&theme=dark&line_height=27">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eby8zevin&layout=compact&theme=dark">
 </a></p>
+</details
