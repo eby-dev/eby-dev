@@ -8,23 +8,23 @@ Here are some ideas to get you started:
 
 <p align="left">
   <a href="https://github.com/eby8zevin" target="_blank">
-    <img src="https://github.com/eby8zevin/eby8zevin/blob/main/assets/GitHub.png" alt="github" width="40" height="40"/>
+    <img src="https://github.com/eby8zevin/eby8zevin/blob/main/assets/GitHub.png" alt="github" width="33" height="33"/>
   </a>
   &nbsp;
-  <a href="https://developer.android.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+  <a href="https://github.com/eby8zevin/android-VolleyGson" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="33" height="33"/>
   </a>
   &nbsp;
-  <a href="https://unity.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
+  <a href="https://github.com/eby8zevin/unity-ARMarker" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="33" height="33"/>
   </a>
 </p>
 
-I'm Ahmad Abu Hasan, a passionate self-taught android developer from Indonesia.
+#### I'm Ahmad Abu Hasan, a passionate self-taught android developer from Indonesia.
 
 ![](https://komarev.com/ghpvc/?username=eby8zevin&color=brightgreen&label=Profile+Views)
 
-<img src="https://github.com/eby8zevin/eby8zevin/blob/main/assets/Octocat.png" width="250" height="250" align='right'>
+<img src="https://github.com/eby8zevin/eby8zevin/blob/main/assets/Octocat.png" width="222" height="222" align='right'>
 
 - 🔭 I’m currently working on [Skripsi](https://github.com/eby8zevin/skripsi)
 - 🌱 I’m currently learning Android Studio
@@ -51,4 +51,6 @@ while ( ! (succeed = try( ) ) );
   <img src="https://github-readme-stats.vercel.app/api?username=eby8zevin&show_icons=true&theme=dark&line_height=20">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eby8zevin&layout=compact&theme=dark">
 </a></p>
-</details
+</details>
+  
+___
