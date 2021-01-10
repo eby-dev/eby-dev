@@ -24,7 +24,9 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=eby8zevin&color=brightgreen&label=Profile+Views)
 
-<img src="https://github.com/eby8zevin/eby8zevin/blob/main/assets/Octocat.png" width="255" height="222" align='right'>
+<a href="https://github.com/eby8zevin">
+  <img src="https://github.com/eby8zevin/eby8zevin/blob/main/assets/Octocat.png" width="255" height="222" align='right'>
+</a>
 
 - 🔭 I’m currently working on [Skripsi](https://github.com/eby8zevin/skripsi)
 - 🌱 I’m currently learning Android Studio
