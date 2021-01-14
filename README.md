@@ -47,13 +47,6 @@ while ( ! (succeed = try( ) ) );
 ```
 
 <details>
-  <summary> :zap: <b>Recent GitHub Activity</b> </summary>
-  
-<!--START_SECTION:activity-->
-
-</details>
-
-<details>
   <summary> :zap: <b>Github Stats</b> </summary>
 <p align="center">:heart:</p>
 <p align="center"><a href="https://github.com/eby8zevin">
