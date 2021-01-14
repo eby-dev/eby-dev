@@ -46,12 +46,15 @@ Here are some ideas to get you started:
 while ( ! (succeed = try( ) ) );
 ```
 
+<details>
+  <summary> :zap: <b>Recent GitHub Activity</b> </summary>
+  
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
+</details>
 
 <details>
-  <summary> 😇 <b>My Github Stats</b>: </summary>
+  <summary> :zap: <b>Github Stats</b> </summary>
 <p align="center">:heart:</p>
 <p align="center"><a href="https://github.com/eby8zevin">
   <img src="https://github-readme-stats.vercel.app/api?username=eby8zevin&show_icons=true&theme=dark&line_height=20">
