@@ -46,6 +46,8 @@ Here are some ideas to get you started:
 while ( ! (succeed = try( ) ) );
 ```
 
+<!--START_SECTION:activity-->
+
 <details>
   <summary> 😇 <b>My Github Stats</b>: </summary>
 <p align="center">:heart:</p>
