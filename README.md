@@ -48,6 +48,8 @@ while ( ! (succeed = try( ) ) );
 
 <!--START_SECTION:activity-->
 
+<!--END_SECTION:activity-->
+
 <details>
   <summary> 😇 <b>My Github Stats</b>: </summary>
 <p align="center">:heart:</p>
