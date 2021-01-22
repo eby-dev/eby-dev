@@ -54,5 +54,5 @@ while ( ! (succeed = try( ) ) );
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eby8zevin&layout=compact&theme=dark">
 </a></p>
 </details>
-  
+
 ___
