@@ -47,6 +47,12 @@ while ( ! (succeed = try( ) ) );
 ```
 
 <details>
+  <summary> :zap: <b>Programming Stats</b> </summary>
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+</details>
+
+<details>
   <summary> :zap: <b>Github Stats</b> </summary>
 <p align="center">:heart:</p>
 <p align="center"><a href="https://github.com/eby8zevin">
