@@ -48,6 +48,8 @@ while ( ! (succeed = try( ) ) );
 
 <details>
   <summary> :zap: <b>Programming Stats</b> </summary>
+  
+  ![Waka Readme](https://github.com/eby8zevin/eby8zevin/workflows/Waka%20Readme/badge.svg)
 <!--START_SECTION:waka-->
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-196823%20lines%20of%20code-blue)
