@@ -51,7 +51,6 @@ while ( ! (succeed = try( ) ) );
   
   ![Waka Readme](https://github.com/eby8zevin/eby8zevin/workflows/Waka%20Readme/badge.svg)
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 </details>
 
