@@ -47,7 +47,7 @@ while ( ! (succeed = try( ) ) );
 ```
 
 <details>
-  <summary> :zap: <b>Programming Stats</b> </summary>
+  <summary> :zap: <b>Development Stats</b> </summary>
   
   ![Waka Readme](https://github.com/eby8zevin/eby8zevin/workflows/Waka%20Readme/badge.svg)
 <!--START_SECTION:waka-->
