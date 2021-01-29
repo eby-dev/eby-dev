@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=eby8zevin&color=brightgreen&label=Profile+Views)
 
 <a href="https://github.com/eby8zevin">
-  <img src="https://github.com/eby8zevin/eby8zevin/blob/main/assets/Octocat.png" width="255" height="222" align='right'>
+  <code><img src="https://github.com/eby8zevin/eby8zevin/blob/main/assets/Octocat.png" width="255" height="222" align='right'></code>
 </a>
 
 - 🔭 I’m currently working on [Skripsi](https://github.com/eby8zevin/skripsi)
@@ -130,6 +130,11 @@ HTML                     3 repos             █░░░░░░░░░░�
   <img src="https://github-readme-stats.vercel.app/api?username=eby8zevin&show_icons=true&theme=dark&line_height=20">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eby8zevin&layout=compact&theme=dark">
 </a></p>
+<p align="center">
+  <a href="https://github.com/eby8zevin">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=eby8zevin&theme=dark"/>
+  </a>
+</p>
 </details>
 
 <details>
