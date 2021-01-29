@@ -8,15 +8,15 @@ Here are some ideas to get you started:
 
 <p align="left">
   <a href="https://github.com/eby8zevin" target="_blank">
-    <img src="https://github.com/eby8zevin/eby8zevin/blob/main/assets/GitHub.png" alt="github" width="33" height="33"/>
+    <code><img src="https://github.com/eby8zevin/eby8zevin/blob/main/assets/GitHub.png" alt="github" width="33" height="33"/></code>
   </a>
   &nbsp;
   <a href="https://github.com/eby8zevin/android-VolleyGson" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="33" height="33"/>
+    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="33" height="33"/></code>
   </a>
   &nbsp;
   <a href="https://github.com/eby8zevin/unity-ARMarker" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="33" height="33"/>
+    <code><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="33" height="33"/></code>
   </a>
 </p>
 
