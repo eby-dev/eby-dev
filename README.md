@@ -45,6 +45,10 @@ Here are some ideas to get you started:
 ##### MOTTO
 ```
 while ( ! (succeed = try( ) ) );
+
+“Everybody should learn to program a computer, 
+
+because it teaches you how to think." - Steve Jobs
 ```
 
 <details>
