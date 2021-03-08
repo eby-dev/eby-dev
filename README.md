@@ -12,7 +12,7 @@ Here are some ideas to get you started:
     <code><img src="https://github.com/eby8zevin/eby8zevin/blob/main/assets/GitHub.png" alt="github" width="33" height="33"/></code>
   </a>
   &nbsp;
-  <a href="https://github.com/eby8zevin/android-VolleyGson" target="_blank">
+  <a href="https://github.com/eby8zevin/QRBarcode" target="_blank">
     <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="33" height="33"/></code>
   </a>
   &nbsp;
