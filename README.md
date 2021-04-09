@@ -56,11 +56,11 @@ because it teaches you how to think." - Steve Jobs
   
   ![Waka Readme](https://github.com/eby8zevin/eby8zevin/workflows/Waka%20Readme/badge.svg)
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-195615%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-195617%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1,251 Contributions in the Year 2021
+> 🏆 1,252 Contributions in the Year 2021
  > 
 > 📦 267.1 kB Used in Github's Storage 
  > 
