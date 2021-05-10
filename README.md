@@ -42,6 +42,8 @@ Here are some ideas to get you started:
 
 [<img src="https://spotify-now-playing-ahmadabuhasan.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/gr3y7pr12w9ol2dy2ccdb10e7)
 
+[<img src="https://readme-spotify-status-ahmadabuhasan.vercel.app/api/run-spotify-status" alt="Spotify Status" width="350" />](https://open.spotify.com/user/gr3y7pr12w9ol2dy2ccdb10e7)
+
 ##### MOTTO
 ```
 while ( ! (succeed = try( ) ) );
