@@ -58,17 +58,17 @@ because it teaches you how to think." - Steve Jobs
   
   ![Waka Readme](https://github.com/eby8zevin/eby8zevin/workflows/Waka%20Readme/badge.svg)
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-195087%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-195091%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1,508 Contributions in the Year 2021
+> 🏆 1,513 Contributions in the Year 2021
  > 
 > 📦 270.0 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 79 Public Repositories 
+> 📜 80 Public Repositories 
  > 
 > 🔑 1 Private Repository 
  > 
@@ -99,12 +99,12 @@ Sunday       50 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     1 hr 19 mins        ██████████████░░░░░░░░░░░   56.44% 
-HTML                     42 mins             ███████░░░░░░░░░░░░░░░░░░   29.93% 
-Groovy                   19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.63%
+Java                     1 hr 19 mins        █████████████░░░░░░░░░░░░   51.61% 
+HTML                     55 mins             █████████░░░░░░░░░░░░░░░░   35.92% 
+Groovy                   19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.46%
 
 💻 Operating System: 
-Windows                  2 hrs 20 mins       █████████████████████████   100.0%
+Windows                  2 hrs 33 mins       █████████████████████████   100.0%
 
 ```
 
