@@ -21,6 +21,9 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+![GitHub Follow](https://img.shields.io/github/followers/eby8zevin.svg?style=social&label=Follow)
+![GitHub Star](https://img.shields.io/github/stars/eby8zevin?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
+
 #### I'm Ahmad Abu Hasan, a passionate self-taught android developer from Indonesia.
 
 ![](https://komarev.com/ghpvc/?username=eby8zevin&color=brightgreen&label=Profile+Views)
