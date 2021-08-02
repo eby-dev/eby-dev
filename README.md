@@ -61,11 +61,11 @@ because it teaches you how to think." - Steve Jobs
   
   ![Waka Readme](https://github.com/eby8zevin/eby8zevin/workflows/Waka%20Readme/badge.svg)
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-203146%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-203145%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 2,412 Contributions in the Year 2021
+> 🏆 2,415 Contributions in the Year 2021
  > 
 > 📦 272.2 kB Used in Github's Storage 
  > 
@@ -78,8 +78,8 @@ because it teaches you how to think." - Steve Jobs
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    757 commits    ██████████░░░░░░░░░░░░░░░   41.55% 
-🌆 Daytime    556 commits    ███████░░░░░░░░░░░░░░░░░░   30.52% 
+🌞 Morning    758 commits    ██████████░░░░░░░░░░░░░░░   41.6% 
+🌆 Daytime    555 commits    ███████░░░░░░░░░░░░░░░░░░   30.46% 
 🌃 Evening    364 commits    █████░░░░░░░░░░░░░░░░░░░░   19.98% 
 🌙 Night      145 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   7.96%
 
@@ -87,13 +87,13 @@ because it teaches you how to think." - Steve Jobs
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       182 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.99% 
+Monday       181 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.93% 
 Tuesday      295 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.19% 
-Wednesday    322 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.67% 
+Wednesday    321 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.62% 
 Thursday     245 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.45% 
 Friday       356 commits    █████░░░░░░░░░░░░░░░░░░░░   19.54% 
-Saturday     244 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.39% 
-Sunday       178 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.77%
+Saturday     243 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.34% 
+Sunday       181 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.93%
 
 ```
 
@@ -127,7 +127,7 @@ HTML                     3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/eby8zevin/eby8zevin/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/08/2021
+ Last Updated on 02/08/2021
 <!--END_SECTION:waka-->
 </details>
 
