@@ -61,13 +61,13 @@ because it teaches you how to think." - Steve Jobs
   
   ![Waka Readme](https://github.com/eby8zevin/eby8zevin/workflows/Waka%20Readme/badge.svg)
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-203145%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-203144%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 2,418 Contributions in the Year 2021
+> 🏆 2,421 Contributions in the Year 2021
  > 
-> 📦 272.2 kB Used in Github's Storage 
+> 📦 272.3 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -78,19 +78,19 @@ because it teaches you how to think." - Steve Jobs
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    757 commits    ██████████░░░░░░░░░░░░░░░   41.55% 
+🌞 Morning    755 commits    ██████████░░░░░░░░░░░░░░░   41.44% 
 🌆 Daytime    557 commits    ███████░░░░░░░░░░░░░░░░░░   30.57% 
-🌃 Evening    363 commits    █████░░░░░░░░░░░░░░░░░░░░   19.92% 
+🌃 Evening    365 commits    █████░░░░░░░░░░░░░░░░░░░░   20.03% 
 🌙 Night      145 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   7.96%
 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       183 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.04% 
-Tuesday      295 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.19% 
+Monday       181 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.93% 
+Tuesday      298 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.36% 
 Wednesday    321 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.62% 
-Thursday     244 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.39% 
+Thursday     243 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.34% 
 Friday       356 commits    █████░░░░░░░░░░░░░░░░░░░░   19.54% 
 Saturday     243 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.34% 
 Sunday       180 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.88%
@@ -127,7 +127,7 @@ HTML                     3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/eby8zevin/eby8zevin/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/08/2021
+ Last Updated on 04/08/2021
 <!--END_SECTION:waka-->
 </details>
 
