@@ -61,11 +61,11 @@ because it teaches you how to think." - Steve Jobs
   
   ![Waka Readme](https://github.com/eby8zevin/eby8zevin/workflows/Waka%20Readme/badge.svg)
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-203143%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-203142%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 2,424 Contributions in the Year 2021
+> 🏆 2,427 Contributions in the Year 2021
  > 
 > 📦 272.3 kB Used in Github's Storage 
  > 
@@ -88,9 +88,9 @@ because it teaches you how to think." - Steve Jobs
 
 ```text
 Monday       180 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.88% 
-Tuesday      297 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.3% 
-Wednesday    324 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.78% 
-Thursday     243 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.34% 
+Tuesday      295 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.19% 
+Wednesday    323 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.73% 
+Thursday     246 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.5% 
 Friday       355 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.48% 
 Saturday     243 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.34% 
 Sunday       180 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.88%
@@ -127,7 +127,7 @@ HTML                     3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/eby8zevin/eby8zevin/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/08/2021
+ Last Updated on 06/08/2021
 <!--END_SECTION:waka-->
 </details>
 
