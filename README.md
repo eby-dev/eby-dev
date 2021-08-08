@@ -61,11 +61,11 @@ because it teaches you how to think." - Steve Jobs
   
   ![Waka Readme](https://github.com/eby8zevin/eby8zevin/workflows/Waka%20Readme/badge.svg)
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-203216%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-203167%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 2,431 Contributions in the Year 2021
+> 🏆 2,434 Contributions in the Year 2021
  > 
 > 📦 272.3 kB Used in Github's Storage 
  > 
@@ -90,10 +90,10 @@ because it teaches you how to think." - Steve Jobs
 Monday       180 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.88% 
 Tuesday      292 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.03% 
 Wednesday    323 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.73% 
-Thursday     245 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.45% 
+Thursday     242 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.28% 
 Friday       358 commits    █████░░░░░░░░░░░░░░░░░░░░   19.65% 
 Saturday     244 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.39% 
-Sunday       180 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.88%
+Sunday       183 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.04%
 
 ```
 
@@ -102,11 +102,11 @@ Sunday       180 commits    ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-XML                      22 mins             ████████████████████████░   96.46% 
-Java                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   3.54%
+XML                      28 mins             █████████████░░░░░░░░░░░░   52.09% 
+Java                     26 mins             ████████████░░░░░░░░░░░░░   47.91%
 
 💻 Operating System: 
-Windows                  23 mins             █████████████████████████   100.0%
+Windows                  54 mins             █████████████████████████   100.0%
 
 ```
 
@@ -127,7 +127,7 @@ HTML                     3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/eby8zevin/eby8zevin/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/08/2021
+ Last Updated on 08/08/2021
 <!--END_SECTION:waka-->
 </details>
 
