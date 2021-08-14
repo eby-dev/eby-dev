@@ -61,11 +61,11 @@ because it teaches you how to think." - Steve Jobs
   
   ![Waka Readme](https://github.com/eby8zevin/eby8zevin/workflows/Waka%20Readme/badge.svg)
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-203208%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-203207%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 2,446 Contributions in the Year 2021
+> 🏆 2,447 Contributions in the Year 2021
  > 
 > 📦 272.4 kB Used in Github's Storage 
  > 
@@ -78,9 +78,9 @@ because it teaches you how to think." - Steve Jobs
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    744 commits    ██████████░░░░░░░░░░░░░░░   40.7% 
+🌞 Morning    743 commits    ██████████░░░░░░░░░░░░░░░   40.65% 
 🌆 Daytime    557 commits    ███████░░░░░░░░░░░░░░░░░░   30.47% 
-🌃 Evening    380 commits    █████░░░░░░░░░░░░░░░░░░░░   20.79% 
+🌃 Evening    381 commits    █████░░░░░░░░░░░░░░░░░░░░   20.84% 
 🌙 Night      147 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.04%
 
 ```
@@ -102,12 +102,12 @@ Sunday       183 commits    ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     1 hr 49 mins        █████████████████░░░░░░░░   70.97% 
-XML                      36 mins             ██████░░░░░░░░░░░░░░░░░░░   23.92% 
-Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.11%
+Java                     1 hr 48 mins        ████████████████████░░░░░   83.2% 
+XML                      14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.76% 
+Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.04%
 
 💻 Operating System: 
-Windows                  2 hrs 34 mins       █████████████████████████   100.0%
+Windows                  2 hrs 10 mins       █████████████████████████   100.0%
 
 ```
 
@@ -128,7 +128,7 @@ HTML                     3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/eby8zevin/eby8zevin/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/08/2021
+ Last Updated on 14/08/2021
 <!--END_SECTION:waka-->
 </details>
 
