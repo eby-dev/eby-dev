@@ -65,7 +65,7 @@ because it teaches you how to think." - Steve Jobs
 
 **🐱 My Github Data** 
 
-> 🏆 2,465 Contributions in the Year 2021
+> 🏆 2,466 Contributions in the Year 2021
  > 
 > 📦 272.6 kB Used in Github's Storage 
  > 
@@ -88,9 +88,9 @@ because it teaches you how to think." - Steve Jobs
 
 ```text
 Monday       185 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.12% 
-Tuesday      286 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.65% 
+Tuesday      285 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.59% 
 Wednesday    332 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.16% 
-Thursday     240 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.13% 
+Thursday     241 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.18% 
 Friday       357 commits    █████░░░░░░░░░░░░░░░░░░░░   19.53% 
 Saturday     242 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.24% 
 Sunday       186 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.18%
@@ -130,7 +130,7 @@ HTML                     3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/eby8zevin/eby8zevin/main/charts/bar_graph.png) 
 
 
- Last Updated on 26/08/2021
+ Last Updated on 27/08/2021
 <!--END_SECTION:waka-->
 </details>
 
