@@ -32,10 +32,10 @@ Here are some ideas to get you started:
   <code><img src="https://github.com/eby8zevin/eby8zevin/blob/main/assets/Octocat.png" width="255" height="222" align='right'></code>
 </a>
 
-- 🔭 I’m currently working on [Skripsi](https://github.com/eby8zevin/skripsi)
+- 🔭 I’m currently working on [. . .](https://github.com/eby8zevin)
 - 🌱 I’m currently learning Android Studio
-- 👯 I’m looking to collaborate on on open source Skripsi project
-- 🤔 I’m looking for help with my one of open source project [Skripsi](https://github.com/eby8zevin/skripsi)
+- 👯 I’m looking to collaborate on on open source . . . project
+- 🤔 I’m looking for help with my one of open source project [. . .](https://github.com/eby8zevin)
 - 💬 Ask me about [here](https://github.com/eby8zevin/eby8zevin/issues)
 - 📫 How to reach me: [Github](https://github.com/eby8zevin)
 - 😄 Pronouns: He / him
