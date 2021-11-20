@@ -67,7 +67,7 @@ because it teaches you how to think." - Steve Jobs
 
 > 🏆 2,956 Contributions in the Year 2021
  > 
-> 📦 282.3 kB Used in GitHub's Storage 
+> 📦 282.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -102,12 +102,12 @@ Sunday       231 commits    ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     13 hrs 11 mins      ██████████████████████░░░   88.14% 
-XML                      1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.75% 
+Java                     13 hrs 33 mins      █████████████████████░░░░   86.57% 
+XML                      2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.32% 
 Groovy                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11%
 
 💻 Operating System: 
-Windows                  14 hrs 57 mins      █████████████████████████   100.0%
+Windows                  15 hrs 39 mins      █████████████████████████   100.0%
 
 ```
 
@@ -128,7 +128,7 @@ HTML                     3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/eby8zevin/eby8zevin/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/11/2021
+ Last Updated on 20/11/2021
 <!--END_SECTION:waka-->
 </details>
 
