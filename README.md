@@ -61,11 +61,11 @@ because it teaches you how to think." - Steve Jobs
   
   ![Waka Readme](https://github.com/eby8zevin/eby8zevin/workflows/Waka%20Readme/badge.svg)
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-206758%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-206765%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 2,965 Contributions in the Year 2021
+> 🏆 2,968 Contributions in the Year 2021
  > 
 > 📦 282.4 kB Used in GitHub's Storage 
  > 
@@ -128,7 +128,7 @@ HTML                     3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/eby8zevin/eby8zevin/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/11/2021
+ Last Updated on 22/11/2021
 <!--END_SECTION:waka-->
 </details>
 
