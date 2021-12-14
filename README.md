@@ -67,7 +67,7 @@ because it teaches you how to think." - Steve Jobs
 
 > 🏆 3,120 Contributions in the Year 2021
  > 
-> 📦 290.7 kB Used in GitHub's Storage 
+> 📦 290.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -128,7 +128,7 @@ HTML                     3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/eby8zevin/eby8zevin/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/12/2021
+ Last Updated on 14/12/2021
 <!--END_SECTION:waka-->
 </details>
 
