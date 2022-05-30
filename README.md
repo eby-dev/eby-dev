@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 
 #### I'm Ahmad Abu Hasan, a passionate self-taught android developer from Indonesia.
 
+[![wakatime](https://wakatime.com/badge/user/bbcd646f-1daf-4865-a20e-46d4c803e6f8.svg)](https://wakatime.com/@bbcd646f-1daf-4865-a20e-46d4c803e6f8)
 ![](https://komarev.com/ghpvc/?username=eby8zevin&color=brightgreen&label=Profile+Views)
 
 <a href="https://github.com/eby8zevin">
