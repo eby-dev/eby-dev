@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 
 #### I'm Ahmad Abu Hasan, a passionate self-taught android developer from Indonesia.
 
+[![Waka Readme](https://github.com/eby8zevin/eby8zevin/actions/workflows/anmol098.yml/badge.svg)](https://github.com/eby8zevin/eby8zevin/actions/workflows/anmol098.yml)
 [![wakatime](https://wakatime.com/badge/user/bbcd646f-1daf-4865-a20e-46d4c803e6f8.svg)](https://wakatime.com/@bbcd646f-1daf-4865-a20e-46d4c803e6f8)
-![](https://komarev.com/ghpvc/?username=eby8zevin&color=brightgreen&label=Profile+Views)
 
 <a href="https://github.com/eby8zevin">
   <code><img src="https://github.com/eby8zevin/eby8zevin/blob/main/assets/Octocat.png" width="255" height="222" align='right'></code>
@@ -60,70 +60,7 @@ because it teaches you how to think." - Steve Jobs
 <details>
   <summary> :zap: <b>Development Stats</b> </summary>
   
-  ![Waka Readme](https://github.com/eby8zevin/eby8zevin/workflows/Waka%20Readme/badge.svg)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-92-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-193%20Thousand%20lines%20of%20code-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    604 commits    ██████░░░░░░░░░░░░░░░░░░░   26.43% 
-🌆 Daytime    448 commits    █████░░░░░░░░░░░░░░░░░░░░   19.61% 
-🌃 Evening    936 commits    ██████████░░░░░░░░░░░░░░░   40.96% 
-🌙 Night      297 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.0%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       203 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.88% 
-Tuesday      209 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.15% 
-Wednesday    399 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.46% 
-Thursday     441 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.3% 
-Friday       413 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.07% 
-Saturday     314 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.74% 
-Sunday       306 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.39%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    17 hrs 12 mins      █████████░░░░░░░░░░░░░░░░   35.84% 
-Java                     14 hrs 51 mins      ███████░░░░░░░░░░░░░░░░░░   30.94% 
-XML                      7 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.55% 
-Markdown                 2 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.5% 
-PHP                      2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.3%
-
-💻 Operating System: 
-Windows                  47 hrs 59 mins      █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in Java** 
-
-```text
-Java                     38 repos            ████████████████░░░░░░░░░   64.41% 
-JavaScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.86% 
-PHP                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.47% 
-HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.78% 
-C#                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.08%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/eby8zevin/eby8zevin/main/charts/bar_graph.png) 
-
-
- Last Updated on 31/05/2022 01:22:27 UTC
 <!--END_SECTION:waka-->
 </details>
 
