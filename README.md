@@ -1,5 +1,5 @@
 <!--### Hi there 👋-->
-### Hello World <img src="https://github.com/eby8zevin/eby8zevin/blob/main/assets/Hi.gif"  width="33" height="33">
+### Hello World <img src="https://github.com/eby8zevin/eby8zevin/blob/main/assets/Hi.gif"  width="23" height="23">
 
 <!--
 **eby8zevin/eby8zevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
