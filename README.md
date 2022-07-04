@@ -61,7 +61,7 @@ because it teaches you how to think." - Steve Jobs
   <summary> :zap: <b>Development Stats</b> </summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-927%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -94,14 +94,14 @@ Sunday       276 commits    ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    48 hrs 59 mins      ███████████████████████░░   93.44% 
-PHP                      1 hr 36 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   3.08% 
-Kotlin                   53 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.7% 
-Blade Template           16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.52% 
-GitIgnore file           10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.34%
+Other                    44 hrs 37 mins      ███████████████████████░░   93.35% 
+PHP                      1 hr 22 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.87% 
+Kotlin                   53 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.86% 
+Blade Template           16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.57% 
+GitIgnore file           10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.37%
 
 💻 Operating System: 
-Windows                  52 hrs 25 mins      █████████████████████████   100.0%
+Windows                  47 hrs 48 mins      █████████████████████████   100.0%
 
 ```
 
@@ -122,7 +122,7 @@ C#                       3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/eby8zevin/eby8zevin/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/07/2022 01:30:52 UTC
+ Last Updated on 04/07/2022 01:38:11 UTC
 <!--END_SECTION:waka-->
 </details>
 
