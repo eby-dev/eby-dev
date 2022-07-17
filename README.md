@@ -1,4 +1,5 @@
 <!--### Hi there 👋-->
+
 ### Hello World <img src="https://github.com/eby8zevin/eby8zevin/blob/main/assets/Hi.gif"  width="23" height="23">
 
 <!--
@@ -24,7 +25,7 @@ Here are some ideas to get you started:
 ![GitHub Follow](https://img.shields.io/github/followers/eby8zevin.svg?style=social&label=Follow)
 ![GitHub Star](https://img.shields.io/github/stars/eby8zevin?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
 
-#### I'm Ahmad Abu Hasan, a passionate self-taught android developer from Indonesia.
+#### I'm Ahmad Abu Hasan, a passionate self-taught programmer from Indonesia.
 
 [![Waka Readme](https://github.com/eby8zevin/eby8zevin/actions/workflows/anmol098.yml/badge.svg)](https://github.com/eby8zevin/eby8zevin/actions/workflows/anmol098.yml)
 [![wakatime](https://wakatime.com/badge/user/bbcd646f-1daf-4865-a20e-46d4c803e6f8.svg)](https://wakatime.com/@bbcd646f-1daf-4865-a20e-46d4c803e6f8)
@@ -34,12 +35,12 @@ Here are some ideas to get you started:
 </a>
 
 - 🔭 I’m currently working on [. . .](https://github.com/eby8zevin)
-- 🌱 I’m currently learning Android Studio
+- 🌱 I’m currently learning programming
 - 👯 I’m looking to collaborate on on open source . . . project
 - 🤔 I’m looking for help with my one of open source project [. . .](https://github.com/eby8zevin)
 - 💬 Ask me about [here](https://github.com/eby8zevin/eby8zevin/issues)
 - 📫 How to reach me: [Github](https://github.com/eby8zevin)
-- 😄 Pronouns: He / him
+- 😄 Pronouns: He / Him
 - ⚡ Fun fact: **Success is not a coincidence!**
 
 ### Spotify Playing 🎧
@@ -49,10 +50,11 @@ Here are some ideas to get you started:
 [<img src="https://readme-spotify-status-ahmadabuhasan.vercel.app/api/run-spotify-status" alt="Spotify Status" width="350" />](https://open.spotify.com/user/gr3y7pr12w9ol2dy2ccdb10e7)
 
 ##### MOTTO
+
 ```
 while ( ! (succeed = try( ) ) );
 
-“Everybody should learn to program a computer, 
+“Everybody should learn to program a computer,
 
 because it teaches you how to think." - Steve Jobs
 ```
@@ -67,62 +69,61 @@ because it teaches you how to think." - Steve Jobs
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-194%20Thousand%20lines%20of%20code-blue)
 
-**I'm a Night 🦉** 
+**I'm a Night 🦉**
 
 ```text
-🌞 Morning    570 commits    ██████░░░░░░░░░░░░░░░░░░░   24.05% 
-🌆 Daytime    544 commits    █████░░░░░░░░░░░░░░░░░░░░   22.95% 
-🌃 Evening    972 commits    ██████████░░░░░░░░░░░░░░░   41.01% 
+🌞 Morning    570 commits    ██████░░░░░░░░░░░░░░░░░░░   24.05%
+🌆 Daytime    544 commits    █████░░░░░░░░░░░░░░░░░░░░   22.95%
+🌃 Evening    972 commits    ██████████░░░░░░░░░░░░░░░   41.01%
 🌙 Night      284 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.98%
 
 ```
-📅 **I'm Most Productive on Thursday** 
+
+📅 **I'm Most Productive on Thursday**
 
 ```text
-Monday       287 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.11% 
-Tuesday      276 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.65% 
-Wednesday    332 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.01% 
-Thursday     415 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.51% 
-Friday       381 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.08% 
-Saturday     390 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.46% 
+Monday       287 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.11%
+Tuesday      276 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.65%
+Wednesday    332 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.01%
+Thursday     415 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.51%
+Friday       381 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.08%
+Saturday     390 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.46%
 Sunday       289 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.19%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
-💬 Programming Languages: 
-Java                     4 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   23.31% 
-XML                      2 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.71% 
-Kotlin                   2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.21% 
-Other                    2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.98% 
+💬 Programming Languages:
+Java                     4 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   23.31%
+XML                      2 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.71%
+Kotlin                   2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.21%
+Other                    2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.98%
 JSON                     2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.93%
 
-💻 Operating System: 
+💻 Operating System:
 Windows                  17 hrs 26 mins      █████████████████████████   100.0%
 
 ```
 
-**I Mostly Code in Java** 
+**I Mostly Code in Java**
 
 ```text
-Java                     38 repos            ████████████████░░░░░░░░░   64.41% 
-PHP                      8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.56% 
-JavaScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.47% 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.08% 
+Java                     38 repos            ████████████████░░░░░░░░░   64.41%
+PHP                      8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.56%
+JavaScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.47%
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.08%
 C#                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.08%
 
 ```
 
-
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/eby8zevin/eby8zevin/main/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/eby8zevin/eby8zevin/main/charts/bar_graph.png)
 
+Last Updated on 15/07/2022 01:42:46 UTC
 
- Last Updated on 15/07/2022 01:42:46 UTC
 <!--END_SECTION:waka-->
 </details>
 
@@ -150,4 +151,4 @@ C#                       3 repos             █░░░░░░░░░░�
   <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
 </details>
 
-___
+---
