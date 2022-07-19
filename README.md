@@ -1,24 +1,16 @@
-<!--### Hi there 👋-->
-
 ### Hello World <img src="https://github.com/eby8zevin/eby8zevin/blob/main/assets/Hi.gif"  width="23" height="23">
-
-<!--
-**eby8zevin/eby8zevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
 
 <p align="left">
   <a href="https://github.com/eby8zevin" target="_blank">
-    <code><img src="https://github.com/eby8zevin/eby8zevin/blob/main/assets/GitHub.png" alt="github" width="33" height="33"/></code>
+    <img src="https://github.com/eby8zevin/eby8zevin/blob/main/assets/GitHub.png" alt="github" width="33" height="33"/>
   </a>
   &nbsp;
   <a href="https://github.com/eby8zevin/QRBarcode" target="_blank">
-    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="33" height="33"/></code>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" alt="android" width="33" height="33"/>
   </a>
   &nbsp;
   <a href="https://github.com/eby8zevin/unity-ARMarker" target="_blank">
-    <code><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="33" height="33"/></code>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="33" height="33"/>
   </a>
 </p>
 
@@ -30,18 +22,7 @@ Here are some ideas to get you started:
 [![Waka Readme](https://github.com/eby8zevin/eby8zevin/actions/workflows/anmol098.yml/badge.svg)](https://github.com/eby8zevin/eby8zevin/actions/workflows/anmol098.yml)
 [![wakatime](https://wakatime.com/badge/user/bbcd646f-1daf-4865-a20e-46d4c803e6f8.svg)](https://wakatime.com/@bbcd646f-1daf-4865-a20e-46d4c803e6f8)
 
-<a href="https://github.com/eby8zevin">
-  <code><img src="https://github.com/eby8zevin/eby8zevin/blob/main/assets/Octocat.png" width="255" height="222" align='right'></code>
-</a>
-
-- 🔭 I’m currently working on [. . .](https://github.com/eby8zevin)
-- 🌱 I’m currently learning programming
-- 👯 I’m looking to collaborate on on open source . . . project
-- 🤔 I’m looking for help with my one of open source project [. . .](https://github.com/eby8zevin)
-- 💬 Ask me about [here](https://github.com/eby8zevin/eby8zevin/issues)
-- 📫 How to reach me: [Github](https://github.com/eby8zevin)
-- 😄 Pronouns: He / Him
-- ⚡ Fun fact: **Success is not a coincidence!**
+<img src="https://github.com/eby8zevin/eby8zevin/blob/main/assets/Octocat.png" width="255" height="222" align='right'>
 
 ### Spotify Playing 🎧
 
@@ -56,10 +37,10 @@ while ( ! (succeed = try( ) ) );
 
 “Everybody should learn to program a computer,
 
-because it teaches you how to think." - Steve Jobs
+because it teaches you how to think.” - Steve Jobs
 ```
 
-<details>
+<details open>
   <summary> :zap: <b>Development Stats</b> </summary>
   
 <!--START_SECTION:waka-->
