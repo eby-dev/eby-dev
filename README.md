@@ -42,7 +42,8 @@ because it teaches you how to think.” - Steve Jobs
 
 <details open>
   <summary> :zap: <b>Development Stats</b> </summary>
-  
+<br/>
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
