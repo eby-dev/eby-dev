@@ -45,11 +45,51 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C355%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C355%20hrs%2040%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-223%20Thousand%20lines%20of%20code-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    701 commits    ██████░░░░░░░░░░░░░░░░░░░   24.67% 
+🌆 Daytime    589 commits    █████░░░░░░░░░░░░░░░░░░░░   20.72% 
+🌃 Evening    1151 commits   ██████████░░░░░░░░░░░░░░░   40.5% 
+🌙 Night      401 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.11%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       376 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.23% 
+Tuesday      329 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.58% 
+Wednesday    374 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.16% 
+Thursday     495 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.42% 
+Friday       443 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.59% 
+Saturday     463 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.29% 
+Sunday       362 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.74%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+Other                    21 hrs 55 mins      ██████████████████████░░░   89.75% 
+Java                     2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.95% 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13% 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13% 
+CLASS                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
+
+💻 Operating System: 
+Windows                  24 hrs 25 mins      █████████████████████████   100.0%
+
+```
 
 **I Mostly Code in Java** 
 
@@ -68,7 +108,7 @@ C#                       3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/eby8zevin/eby8zevin/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/09/2022 17:48:06 UTC
+ Last Updated on 07/09/2022 17:39:54 UTC
 <!--END_SECTION:waka-->
 
 </details>
