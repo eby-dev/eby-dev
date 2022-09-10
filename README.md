@@ -45,9 +45,9 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C372%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C380%20hrs%202%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-223%20Thousand%20lines%20of%20code-blue)
 
@@ -80,14 +80,14 @@ Sunday       362 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Other                    23 hrs 33 mins      █████████████████████░░░░   85.27% 
-Java                     1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.66% 
-Kotlin                   1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.19% 
-PHP                      1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   3.66% 
-XML                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.51%
+Other                    25 hrs 4 mins       ████████████████████░░░░░   80.58% 
+Kotlin                   2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.6% 
+PHP                      1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.89% 
+Java                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.06% 
+XML                      20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.09%
 
 💻 Operating System: 
-Windows                  27 hrs 37 mins      █████████████████████████   100.0%
+Windows                  31 hrs 7 mins       █████████████████████████   100.0%
 
 ```
 
@@ -108,7 +108,7 @@ C#                       3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/eby8zevin/eby8zevin/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/09/2022 17:49:33 UTC
+ Last Updated on 10/09/2022 17:34:09 UTC
 <!--END_SECTION:waka-->
 
 </details>
