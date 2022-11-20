@@ -45,11 +45,51 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C897%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C990%20hrs%2024%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-230%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-232%20Thousand%20lines%20of%20code-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    671 commits    ██████░░░░░░░░░░░░░░░░░░░   24.02% 
+🌆 Daytime    603 commits    █████░░░░░░░░░░░░░░░░░░░░   21.59% 
+🌃 Evening    1115 commits   ██████████░░░░░░░░░░░░░░░   39.92% 
+🌙 Night      404 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.46%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       371 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.28% 
+Tuesday      347 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.42% 
+Wednesday    362 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.96% 
+Thursday     471 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.86% 
+Friday       434 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.54% 
+Saturday     463 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.58% 
+Sunday       345 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.35%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+Kotlin                   32 hrs 36 mins      ██████████████░░░░░░░░░░░   58.4% 
+PHP                      8 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.1% 
+Other                    4 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.72% 
+Java                     4 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.84% 
+XML                      3 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.44%
+
+💻 Operating System: 
+Windows                  55 hrs 49 mins      █████████████████████████   100.0%
+
+```
 
 **I Mostly Code in Java** 
 
@@ -63,12 +103,8 @@ HTML                     3 repos             █░░░░░░░░░░�
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/eby8zevin/eby8zevin/main/charts/bar_graph.png) 
-
-
- Last Updated on 09/11/2022 17:30:20 UTC
+ Last Updated on 20/11/2022 18:26:37 UTC
 <!--END_SECTION:waka-->
 
 </details>
