@@ -63,7 +63,7 @@ Fitur :
   - Input Jurnal Mengajar dan Presensi Siswa
 
 Apa yang berubah :
-- Data Real Time
+- Data Real Time (Contoh: Jika Admin melakukan LOCK/UNLOCK si User tidak perlu logout)
 - Halaman Login menjadi satu (Kode Sekolah, NIP, Password)
 - Terdapat Informasi / Keterangan jika gagal melakukan Absensi atau Perizinan
 - Presensi hanya bisa Satu kali (Ketika sudah Absensi tidak bisa melakukan Perizinan, begitu juga sebaliknya)
@@ -72,6 +72,8 @@ Apa yang berubah :
 - Menambahkan Server NTP untuk mendapatkan waktu sekarang
 - Menambahkan session Login
 - Menambahkan upload file di fitur Perizinan
+- Menambahkan fitur Jadwal Pelajaran
+- Menambahkan fitur Jurnal Mengajar
 - Menambahkan informasi Nama Perangkat & Versi Android
 - Menonaktifkan tanggal yang sudah lewat di fitur Perizinan
 - reDesign tampilan Profil
