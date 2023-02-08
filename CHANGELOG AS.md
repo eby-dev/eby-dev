@@ -6,7 +6,7 @@
 Fitur : 
 - Absen Datang & Pulang
   - Maps satu lokasi
-  - Selfie
+  - Selfie (optional)
   - Batas waktu 20 detik
 - Perizinan
   - Cuti
@@ -35,24 +35,24 @@ Fitur :
 Fitur :
 - Absen Datang & Pulang
   - Maps banyak lokasi
-  - Selfie
+  - Selfie (required)
   - Batas waktu 60 detik
 - Perizinan
   - Izin
   - Sakit
   - Lain-lain
   - Range tanggal
-  - Upload file
+  - Upload file (optional)
 - Laporan Presensi per-Bulan
   - Hadir : /hari
-  - Ijin : /hari
+  - Izin : /hari
   - Sakit : /hari
   - Lain-lain : /hari
   - Terlambat : /hari
   - Persentase dalam Se-Bulan
 - Laporan Presensi per-Tahun
   - Hadir : /hari
-  - Ijin : /hari
+  - Izin : /hari
   - Sakit : /hari
   - Lain-lain : /hari
   - Terlambat : /hari
@@ -68,15 +68,16 @@ Apa yang berubah :
 - Terdapat Informasi / Keterangan jika gagal melakukan Absensi atau Perizinan
 - Presensi hanya bisa Satu kali (Ketika sudah Absensi tidak bisa melakukan Perizinan, begitu juga sebaliknya)
 - Pilihan Bulan urut dari Januari - Desember
-- Menambahkan & memperbaiki keterangan (Hadir, Ijin, Sakit, Lain-lain, Terlambat) dan menghapus (Izin & Cuti) di Laporan Presensi
+- Menambahkan & memperbaiki keterangan (Hadir, Izin, Sakit, Lain-lain, Terlambat) dan menghapus (Izin & Cuti) di Laporan Presensi
 - Menambahkan Server NTP untuk mendapatkan waktu sekarang
 - Menambahkan session Login
 - Menambahkan upload file di fitur Perizinan
+- Menambahkan tampilan Loading ketika mengambil data ke Server
 - Menambahkan fitur Jadwal Pelajaran
 - Menambahkan fitur Jurnal Mengajar
 - Menambahkan informasi Nama Perangkat & Versi Android
 - Menonaktifkan tanggal yang sudah lewat di fitur Perizinan
-- reDesign tampilan Profil
+- reDesign halaman Profil
 
 08/02/2023
 </details>
