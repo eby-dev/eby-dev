@@ -17,7 +17,7 @@
 ![GitHub Follow](https://img.shields.io/github/followers/eby8zevin.svg?style=social&label=Follow)
 ![GitHub Star](https://img.shields.io/github/stars/eby8zevin?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
 
-#### I'm Ahmad Abu Hasan, a passionate self-taught programmer from Indonesia.
+#### I'm Ahmad Abu Hasan, a passionate self-taught programmer from Indonesia
 
 [![Waka Readme](https://github.com/eby8zevin/eby8zevin/actions/workflows/anmol098.yml/badge.svg)](https://github.com/eby8zevin/eby8zevin/actions/workflows/anmol098.yml)
 [![wakatime](https://wakatime.com/badge/user/bbcd646f-1daf-4865-a20e-46d4c803e6f8.svg)](https://wakatime.com/@bbcd646f-1daf-4865-a20e-46d4c803e6f8)
