@@ -45,7 +45,7 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C290%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C295%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
@@ -55,19 +55,19 @@ because it teaches you how to think.” - Steve Jobs
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Other                    38 hrs 12 mins      █████████████████████████   100.00 % 
+Other                    35 hrs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   37 hrs 30 mins      █████████████████████████   98.18 % 
-Firefox                  41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Chrome                   34 hrs 38 mins      █████████████████████████   98.93 % 
+Firefox                  22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 
 💻 Operating System: 
-Windows                  37 hrs 30 mins      █████████████████████████   98.18 % 
-Linux                    41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Windows                  34 hrs 38 mins      █████████████████████████   98.93 % 
+Linux                    22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 ```
 
 
- Last Updated on 23/05/2023 17:13:41 UTC
+ Last Updated on 24/05/2023 17:13:56 UTC
 <!--END_SECTION:waka-->
 
 </details>
