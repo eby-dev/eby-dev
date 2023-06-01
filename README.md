@@ -45,9 +45,9 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C338%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C353%20hrs%2024%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -73,7 +73,7 @@ Linux                    30 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 31/05/2023 17:14:37 UTC
+ Last Updated on 01/06/2023 17:13:37 UTC
 <!--END_SECTION:waka-->
 
 </details>
