@@ -45,9 +45,9 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C548%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C553%20hrs%2032%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-40-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
@@ -57,21 +57,21 @@ because it teaches you how to think.” - Steve Jobs
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Other                    43 hrs 11 mins      ███████████████████████░░   93.90 % 
-JSON                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+Other                    43 hrs 41 mins      ████████████████████████░   95.16 % 
+JSON                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
 JavaScript               23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-Groovy                   22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-Kotlin                   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Kotlin                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+CSS                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🐱‍💻 Projects: 
-ahmadabuhasan_gitquest   15 hrs 11 mins      ████████░░░░░░░░░░░░░░░░░   33.05 % 
-presensi-indoweb         9 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
-signup?editor=copilot_1.84 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-vscode                   3 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-ePesantren Pimpinan      2 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+ahmadabuhasan_gitquest   15 hrs 11 mins      ████████░░░░░░░░░░░░░░░░░   33.10 % 
+presensi-indoweb         5 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+signup?editor=copilot_1.84 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+vscode                   3 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+WMH?fbclid=IwAR1TNW9WpOz63 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
 
 💻 Operating System: 
-Windows                  45 hrs 59 mins      █████████████████████████   100.00 % 
+Windows                  45 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -91,7 +91,7 @@ Dart                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eby8zevin/eby8zevin/main/assets/bar_graph.png)
 
 
- Last Updated on 30/06/2023 17:19:14 UTC
+ Last Updated on 01/07/2023 17:18:02 UTC
 <!--END_SECTION:waka-->
 
 </details>
