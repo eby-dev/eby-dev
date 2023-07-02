@@ -1,23 +1,15 @@
 ### Hello World <img src="https://github.com/eby8zevin/eby8zevin/blob/main/assets/Hi.gif"  width="23" height="23">
 
-<p align="left">
-  <a href="https://github.com/eby8zevin" target="_blank">
-    <img src="https://github.com/eby8zevin/eby8zevin/blob/main/assets/GitHub.png" alt="github" width="33" height="33"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/eby8zevin/QRBarcode" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" alt="android" width="33" height="33"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/eby8zevin/unity-ARMarker" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="33" height="33"/>
-  </a>
-</p>
+#### I'm Ahmad Abu Hasan, a passionate self-taught programmer from Indonesia
 
 ![GitHub Follow](https://img.shields.io/github/followers/eby8zevin.svg?style=social&label=Follow)
 ![GitHub Star](https://img.shields.io/github/stars/eby8zevin?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
 
-#### I'm Ahmad Abu Hasan, a passionate self-taught programmer from Indonesia
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin,vscode,flutter,firebase,php,react" height="44" />
+  </a>
+</p>
 
 [![Waka Readme](https://github.com/eby8zevin/eby8zevin/actions/workflows/anmol098.yml/badge.svg)](https://github.com/eby8zevin/eby8zevin/actions/workflows/anmol098.yml)
 [![wakatime](https://wakatime.com/badge/user/bbcd646f-1daf-4865-a20e-46d4c803e6f8.svg)](https://wakatime.com/@bbcd646f-1daf-4865-a20e-46d4c803e6f8)
@@ -25,8 +17,6 @@
 <img src="https://github.com/eby8zevin/eby8zevin/blob/main/assets/Octocat.png" width="255" height="222" align='right'>
 
 ### Spotify Playing 🎧
-
-[<img src="https://spotify-now-playing-ahmadabuhasan.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/gr3y7pr12w9ol2dy2ccdb10e7)
 
 [<img src="https://readme-spotify-status-ahmadabuhasan.vercel.app/api/run-spotify-status" alt="Spotify Status" width="350" />](https://open.spotify.com/user/gr3y7pr12w9ol2dy2ccdb10e7)
 
