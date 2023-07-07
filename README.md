@@ -5,11 +5,7 @@
 ![GitHub Follow](https://img.shields.io/github/followers/eby8zevin.svg?style=social&label=Follow)
 ![GitHub Star](https://img.shields.io/github/stars/eby8zevin?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin,vscode,flutter,firebase,php,react,mysql,sqlite" height="44" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,java,kotlin,vscode,dart,flutter,linux)](https://skillicons.dev)
 
 [![Website](https://img.shields.io/website?up_message=online&up_color=61DBFB&down_message=maintenance&down_color=FF0000&url=https%3A%2F%2Fconnect-with-eby.web.app&logo=react)](https://connect-with-eby.web.app)
 [![Waka Readme](https://github.com/eby8zevin/eby8zevin/actions/workflows/anmol098.yml/badge.svg)](https://github.com/eby8zevin/eby8zevin/actions/workflows/anmol098.yml)
