@@ -23,7 +23,7 @@ jobs:
           #COMMIT_EMAIL: "36786100+eby8zevin@users.noreply.github.com"
           SHOW_UPDATED_DATE: "True"
           UPDATED_DATE_FORMAT: "%d/%m/%Y %H:%M:%S"
-          SHOW_LINES_OF_CODE: "True"
+          SHOW_LINES_OF_CODE: "False"
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_PROFILE_VIEWS: "True"
           SHOW_COMMIT: "False"
