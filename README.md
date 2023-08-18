@@ -32,9 +32,9 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C894%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C890%20hrs%2042%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-94-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-119-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -51,7 +51,7 @@ Windows                  43 hrs 40 mins      ███████████�
 ```
 
 
- Last Updated on 18/08/2023 04:51:10 UTC
+ Last Updated on 18/08/2023 17:12:45 UTC
 <!--END_SECTION:waka-->
 
 </details>
