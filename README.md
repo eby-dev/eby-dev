@@ -80,6 +80,14 @@ Python                   1 repo              ░░░░░░░░░░░�
  Last Updated on 11/10/2023 17:14:14 UTC
 <!--END_SECTION:waka-->
 
+#### Watch my contribution graph get eaten by the snake 🐍
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eby8zevin/eby8zevin/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eby8zevin/eby8zevin/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/eby8zevin/eby8zevin/output/github-snake.svg" />
+</picture>
+
 </details>
 
 <details>
