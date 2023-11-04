@@ -32,7 +32,7 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C589%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C598%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-49-blue)
 
@@ -42,14 +42,14 @@ because it teaches you how to think.” - Steve Jobs
 🕑︎ Time Zone: Asia/Jakarta
 
 🐱‍💻 Projects: 
-bkpsdm                   15 hrs 24 mins      ███████░░░░░░░░░░░░░░░░░░   26.33 % 
-payroll_al_azhar         12 hrs 1 min        █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
-android-Pemula           8 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-simaz                    6 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
-al-azhar-mobile          3 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+bkpsdm                   21 hrs 45 mins      █████████░░░░░░░░░░░░░░░░   35.63 % 
+payroll_al_azhar         9 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+android-Pemula           9 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+simaz                    5 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+ljshop-android           2 hrs 55 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
 
 💻 Operating System: 
-Windows                  58 hrs 33 mins      █████████████████████████   100.00 % 
+Windows                  61 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -65,7 +65,7 @@ HTML                     6 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 03/11/2023 17:13:54 UTC
+ Last Updated on 04/11/2023 17:12:29 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
