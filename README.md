@@ -32,9 +32,9 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C663%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C671%20hrs%2051%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-45-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-51-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -42,14 +42,14 @@ because it teaches you how to think.” - Steve Jobs
 🕑︎ Time Zone: Asia/Jakarta
 
 🐱‍💻 Projects: 
-bkpsdm                   33 hrs 20 mins      ████████████████░░░░░░░░░   63.88 % 
-cv-natusi                2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
-kotlin-interactive-shell 1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-dpmptsp                  1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-android-sicantik         1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+bkpsdm                   34 hrs 54 mins      █████████████████░░░░░░░░   67.69 % 
+android-sicantik         1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+kotlin-interactive-shell 1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+dpmptsp                  1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+ecommerce-app-2023       1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
 
 💻 Operating System: 
-Windows                  52 hrs 11 mins      █████████████████████████   100.00 % 
+Windows                  51 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -65,7 +65,7 @@ HTML                     6 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 13/11/2023 17:14:12 UTC
+ Last Updated on 14/11/2023 17:12:21 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
