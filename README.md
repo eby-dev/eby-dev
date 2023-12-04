@@ -32,9 +32,9 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C829%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C831%20hrs%2033%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -42,15 +42,15 @@ because it teaches you how to think.” - Steve Jobs
 🕑︎ Time Zone: Asia/Jakarta
 
 🐱‍💻 Projects: 
-SIDIVA                   20 hrs 57 mins      ██████████░░░░░░░░░░░░░░░   40.76 % 
-bkpsdm                   12 hrs 47 mins      ██████░░░░░░░░░░░░░░░░░░░   24.88 % 
-al-azhar-mobile          6 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-simaz                    3 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-epesantren-presensi-api  2 hrs 53 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+SIDIVA                   20 hrs 57 mins      ██████████░░░░░░░░░░░░░░░   39.38 % 
+bkpsdm                   12 hrs 47 mins      ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
+al-azhar-mobile          6 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+simaz                    3 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+epesantren-presensi-api  2 hrs 54 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
 
 💻 Operating System: 
-Windows                  49 hrs 47 mins      ████████████████████████░   96.80 % 
-Mac                      1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+Windows                  51 hrs 35 mins      ████████████████████████░   96.91 % 
+Mac                      1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
 ```
 
 **I Mostly Code in Java** 
@@ -66,7 +66,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/12/2023 17:13:04 UTC
+ Last Updated on 04/12/2023 17:14:50 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
