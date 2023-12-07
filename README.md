@@ -32,7 +32,26 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C859%20hrs%205%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+🐱‍💻 Projects: 
+SIDIVA                   30 hrs 4 mins       ███████████████░░░░░░░░░░   60.58 % 
+bkpsdm                   4 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+al-azhar-mobile          4 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
+epesantren-presensi-api  2 hrs 43 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+get-data-x100c-with-php  54 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+
+💻 Operating System: 
+Windows                  49 hrs 20 mins      █████████████████████████   99.39 % 
+Mac                      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+```
 
 **I Mostly Code in Java** 
 
@@ -47,7 +66,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/12/2023 17:14:36 UTC
+ Last Updated on 07/12/2023 17:14:46 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
