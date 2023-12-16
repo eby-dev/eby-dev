@@ -32,7 +32,7 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C927%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C941%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
@@ -42,14 +42,14 @@ because it teaches you how to think.” - Steve Jobs
 🕑︎ Time Zone: Asia/Jakarta
 
 🐱‍💻 Projects: 
-bkpsdm                   30 hrs 49 mins      ██████████████░░░░░░░░░░░   54.45 % 
-SIDIVA                   14 hrs 28 mins      ██████░░░░░░░░░░░░░░░░░░░   25.56 % 
-al-azhar-mobile          2 hrs 33 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-Real-Time_Face_Recognitio2 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
-indoweb.epesantren-presen1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+bkpsdm                   29 hrs 5 mins       ████████████░░░░░░░░░░░░░   47.25 % 
+SIDIVA                   18 hrs 29 mins      ████████░░░░░░░░░░░░░░░░░   30.02 % 
+al-azhar-mobile          2 hrs 36 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+Real-Time_Face_Recognitio2 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+android-sikda            1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
 
 💻 Operating System: 
-Windows                  56 hrs 36 mins      █████████████████████████   100.00 % 
+Windows                  61 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -65,7 +65,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/12/2023 17:14:34 UTC
+ Last Updated on 16/12/2023 17:12:58 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
