@@ -34,7 +34,7 @@ because it teaches you how to think.” - Steve Jobs
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%2C011%20hrs%2010%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -42,14 +42,14 @@ because it teaches you how to think.” - Steve Jobs
 🕑︎ Time Zone: Asia/Jakarta
 
 🐱‍💻 Projects: 
-bkpsdm                   19 hrs 27 mins      █████████░░░░░░░░░░░░░░░░   35.60 % 
-golang-todos             8 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-SIDIVA                   5 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-Proyek-Klasifikasi-Gambar4 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
-epesantren-presensi-api  3 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+bkpsdm                   17 hrs 57 mins      ██████████░░░░░░░░░░░░░░░   40.57 % 
+golang-todos             8 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
+Proyek-Klasifikasi-Gambar4 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+Image-Classification     2 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+Real-Time_Face_Recognitio2 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
 
 💻 Operating System: 
-Windows                  54 hrs 40 mins      █████████████████████████   100.00 % 
+Windows                  44 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -65,7 +65,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/12/2023 17:13:36 UTC
+ Last Updated on 27/12/2023 17:13:38 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
