@@ -32,7 +32,7 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C011%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C019%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -42,14 +42,14 @@ because it teaches you how to think.” - Steve Jobs
 🕑︎ Time Zone: Asia/Jakarta
 
 🐱‍💻 Projects: 
-bkpsdm                   17 hrs 57 mins      ██████████░░░░░░░░░░░░░░░   40.57 % 
-golang-todos             8 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
-Proyek-Klasifikasi-Gambar4 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-Image-Classification     2 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
-Real-Time_Face_Recognitio2 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+bkpsdm                   17 hrs 5 mins       ██████████░░░░░░░░░░░░░░░   40.48 % 
+golang-todos             8 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
+Proyek-Klasifikasi-Gambar4 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+Image-Classification     2 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+SIGESIT SIDOARJO         2 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
 
 💻 Operating System: 
-Windows                  44 hrs 15 mins      █████████████████████████   100.00 % 
+Windows                  42 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -65,7 +65,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/12/2023 17:13:38 UTC
+ Last Updated on 28/12/2023 17:13:42 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
