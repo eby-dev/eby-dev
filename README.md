@@ -32,7 +32,7 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C044%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C053%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -42,14 +42,14 @@ because it teaches you how to think.” - Steve Jobs
 🕑︎ Time Zone: Asia/Jakarta
 
 🐱‍💻 Projects: 
-bkpsdm                   19 hrs 31 mins      ██████████████░░░░░░░░░░░   57.93 % 
-al-azhar-mobile          4 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-emails                   1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
-simaz                    1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-BackgroundLocationTrackin1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+bkpsdm                   27 hrs 50 mins      ████████████████░░░░░░░░░   65.38 % 
+al-azhar-mobile          4 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+emails                   1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+simaz                    1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+BackgroundLocationTrackin1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
 
 💻 Operating System: 
-Windows                  33 hrs 42 mins      █████████████████████████   100.00 % 
+Windows                  42 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -65,7 +65,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/01/2024 17:14:29 UTC
+ Last Updated on 03/01/2024 17:13:46 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
