@@ -32,9 +32,9 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C062%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C074%20hrs%2046%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -42,14 +42,14 @@ because it teaches you how to think.” - Steve Jobs
 🕑︎ Time Zone: Asia/Jakarta
 
 🐱‍💻 Projects: 
-bkpsdm                   28 hrs 56 mins      █████████████████░░░░░░░░   67.27 % 
-al-azhar-mobile          4 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-emails                   1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-simaz                    1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
-two-factor               35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+bkpsdm                   25 hrs 44 mins      ██████████████░░░░░░░░░░░   57.12 % 
+al-azhar-mobile          4 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+emails                   1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+simaz                    1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+golang-todos             1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
 
 💻 Operating System: 
-Windows                  43 hrs 1 min        █████████████████████████   100.00 % 
+Windows                  45 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -65,7 +65,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2024 17:14:25 UTC
+ Last Updated on 05/01/2024 17:16:19 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
