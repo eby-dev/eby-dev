@@ -32,7 +32,7 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C190%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C198%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -42,14 +42,14 @@ because it teaches you how to think.” - Steve Jobs
 🕑︎ Time Zone: Asia/Jakarta
 
 🐱‍💻 Projects: 
-bkpsdm                   21 hrs 32 mins      █████████░░░░░░░░░░░░░░░░   35.69 % 
-gesit                    11 hrs 53 mins      █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
-SIDIVA                   4 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
-simaz                    4 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-epesantren-presensi-api  3 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+bkpsdm                   22 hrs 15 mins      █████████░░░░░░░░░░░░░░░░   35.56 % 
+gesit                    11 hrs 53 mins      █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
+simaz                    4 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+autocannon               3 hrs 42 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+epesantren-presensi-api  3 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
 
 💻 Operating System: 
-Windows                  60 hrs 22 mins      █████████████████████████   100.00 % 
+Windows                  62 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -65,7 +65,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/01/2024 17:13:56 UTC
+ Last Updated on 21/01/2024 17:13:53 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
