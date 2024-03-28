@@ -27,17 +27,19 @@ while ( ! (succeed = try( ) ) );
 because it teaches you how to think.” - Steve Jobs
 ```
 
-Time spent in IDE for this repository, automatically tracked with WakaTime.
+<details open>
+  <summary> :clock6: <b>Time spent in IDE for this repository, automatically tracked with WakaTime.</b> </summary>
+  <br />
 
-bkpsdm : [![wakatime](https://wakatime.com/badge/user/bbcd646f-1daf-4865-a20e-46d4c803e6f8/project/018cc7d1-7b4e-444e-bc71-a21f511d9cf2.svg)](https://wakatime.com/badge/user/bbcd646f-1daf-4865-a20e-46d4c803e6f8/project/018cc7d1-7b4e-444e-bc71-a21f511d9cf2)
-
-al-azhar-mobile : [![wakatime](https://wakatime.com/badge/user/bbcd646f-1daf-4865-a20e-46d4c803e6f8/project/018d6782-421c-4fce-8b8f-92fb78d5324d.svg)](https://wakatime.com/badge/user/bbcd646f-1daf-4865-a20e-46d4c803e6f8/project/018d6782-421c-4fce-8b8f-92fb78d5324d)
-
-android-ptcn : [![wakatime](https://wakatime.com/badge/user/bbcd646f-1daf-4865-a20e-46d4c803e6f8/project/018d6884-533a-4d65-91d7-b4aaf5eac799.svg)](https://wakatime.com/badge/user/bbcd646f-1daf-4865-a20e-46d4c803e6f8/project/018d6884-533a-4d65-91d7-b4aaf5eac799)
-
-SIDIVA : [![wakatime](https://wakatime.com/badge/user/bbcd646f-1daf-4865-a20e-46d4c803e6f8/project/018befa3-834d-4514-a383-5b856f3d4ef8.svg)](https://wakatime.com/badge/user/bbcd646f-1daf-4865-a20e-46d4c803e6f8/project/018befa3-834d-4514-a383-5b856f3d4ef8)
-
-
+  bkpsdm :computer: [![wakatime](https://wakatime.com/badge/user/bbcd646f-1daf-4865-a20e-46d4c803e6f8/project/018cc7d1-7b4e-444e-bc71-a21f511d9cf2.svg)](https://wakatime.com/badge/user/bbcd646f-1daf-4865-a20e-46d4c803e6f8/project/018cc7d1-7b4e-444e-bc71-a21f511d9cf2) 
+  
+  al-azhar-mobile :computer: [![wakatime](https://wakatime.com/badge/user/bbcd646f-1daf-4865-a20e-46d4c803e6f8/project/018d6782-421c-4fce-8b8f-92fb78d5324d.svg)](https://wakatime.com/badge/user/bbcd646f-1daf-4865-a20e-46d4c803e6f8/project/018d6782-421c-4fce-8b8f-92fb78d5324d) 
+  
+  android-ptcn :computer: [![wakatime](https://wakatime.com/badge/user/bbcd646f-1daf-4865-a20e-46d4c803e6f8/project/018d6884-533a-4d65-91d7-b4aaf5eac799.svg)](https://wakatime.com/badge/user/bbcd646f-1daf-4865-a20e-46d4c803e6f8/project/018d6884-533a-4d65-91d7-b4aaf5eac799) 
+  
+  SIDIVA :computer: [![wakatime](https://wakatime.com/badge/user/bbcd646f-1daf-4865-a20e-46d4c803e6f8/project/018befa3-834d-4514-a383-5b856f3d4ef8.svg)](https://wakatime.com/badge/user/bbcd646f-1daf-4865-a20e-46d4c803e6f8/project/018befa3-834d-4514-a383-5b856f3d4ef8) 
+  
+</details>
 
 <details open>
   <summary> :zap: <b>Development Stats</b> </summary>
