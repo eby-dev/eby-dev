@@ -46,12 +46,32 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-52-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C055%20hrs%2038%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.6%20million%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-58-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.2%20million%20lines%20of%20code-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    23 hrs 16 mins      ████████████░░░░░░░░░░░░░   46.46 % 
+Kotlin                   9 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
+Dart                     6 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+XML                      3 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+Groovy                   2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+
+🐱‍💻 Projects: 
+bkpsdm                   19 hrs 21 mins      ██████████░░░░░░░░░░░░░░░   38.63 % 
+mobile_anekastore        8 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+_bkpsdm                  7 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+android-ptcn             6 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+FaceRecognition-Flutter  2 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+```
 
 
- Last Updated on 15/06/2024 17:23:38 UTC
+ Last Updated on 16/06/2024 17:20:49 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
