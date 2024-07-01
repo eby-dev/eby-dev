@@ -17,7 +17,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           LOCALE: "en"
           #SECTION_NAME: "eby8zevin"
-          COMMIT_BY_ME: "True"
+          #COMMIT_BY_ME: "True"
           #COMMIT_MESSAGE: "Updated with Dev Metrics"
           #COMMIT_USERNAME: "eby8zevin"
           #COMMIT_EMAIL: "36786100+eby8zevin@users.noreply.github.com"
