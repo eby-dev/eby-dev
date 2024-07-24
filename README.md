@@ -46,32 +46,12 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C230%20hrs%2052%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-54-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-50-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.2%20million%20lines%20of%20code-blue)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-Other                    12 hrs 5 mins       ██████████████░░░░░░░░░░░   54.26 % 
-Dart                     9 hrs 38 mins       ███████████░░░░░░░░░░░░░░   43.27 % 
-Figma Design             13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
-YAML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-
-🐱‍💻 Projects: 
-_bkpsdm                  9 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   41.46 % 
-android-ptcn             7 hrs 38 mins       █████████░░░░░░░░░░░░░░░░   34.30 % 
-tme-kumpulankode         1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
-Untitled                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-FaceRecognition-Flutter  32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
-```
-
-
- Last Updated on 23/07/2024 17:23:36 UTC
+ Last Updated on 24/07/2024 17:22:54 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
