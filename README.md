@@ -46,12 +46,32 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-50-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C239%20hrs%206%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-49-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.2%20million%20lines%20of%20code-blue)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 24/07/2024 17:22:54 UTC
+```text
+💬 Programming Languages: 
+Other                    12 hrs 56 mins      ███████████████░░░░░░░░░░   60.79 % 
+Dart                     7 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   33.39 % 
+YAML                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+Groovy                   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+Figma Design             6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+
+🐱‍💻 Projects: 
+_bkpsdm                  8 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   40.54 % 
+android-ptcn             6 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   31.36 % 
+tme-kumpulankode         1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+absensimagang            52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+Untitled                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+```
+
+
+ Last Updated on 25/07/2024 17:25:52 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
