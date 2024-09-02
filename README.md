@@ -50,7 +50,7 @@ because it teaches you how to think.” - Steve Jobs
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.2%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -71,7 +71,7 @@ cv-natusi                1 hr 28 mins        █░░░░░░░░░░�
 ```
 
 
- Last Updated on 01/09/2024 17:23:47 UTC
+ Last Updated on 02/09/2024 17:24:19 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
