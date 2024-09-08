@@ -46,32 +46,12 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C491%20hrs%2047%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.2%20million%20lines%20of%20code-blue)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-Other                    23 hrs 24 mins      ████████████████░░░░░░░░░   64.57 % 
-Groovy                   4 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-Kotlin                   3 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-Gradle                   1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-Dart                     1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-
-🐱‍💻 Projects: 
-bkpsdm                   23 hrs 7 mins       ████████████████░░░░░░░░░   63.79 % 
-android-ptcn             2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-_bkpsdm                  2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-authentication-and-author1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-new                      1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
-```
-
-
- Last Updated on 07/09/2024 17:24:35 UTC
+ Last Updated on 08/09/2024 17:24:34 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
