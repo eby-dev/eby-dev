@@ -46,12 +46,32 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C501%20hrs%2013%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.2%20million%20lines%20of%20code-blue)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 08/09/2024 17:24:34 UTC
+```text
+💬 Programming Languages: 
+Other                    24 hrs 46 mins      ████████████████░░░░░░░░░   64.96 % 
+Kotlin                   6 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
+Groovy                   4 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+Gradle                   1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Prolog                   41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+
+🐱‍💻 Projects: 
+bkpsdm                   26 hrs 53 mins      ██████████████████░░░░░░░   70.55 % 
+laravel-crud-generator   2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+authentication-and-author1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+new                      1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+Android-GoogleCloudFireba1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+```
+
+
+ Last Updated on 09/09/2024 17:27:04 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
