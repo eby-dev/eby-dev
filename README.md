@@ -46,32 +46,12 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C709%20hrs%2014%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.6%20million%20lines%20of%20code-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    39 hrs 9 mins       █████████████████████░░░░   82.28 % 
-Kotlin                   2 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
-XML                      2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
-HTML                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
-Java                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-
-🐱‍💻 Projects: 
-Cerita-Dongeng           10 hrs 51 mins      ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
-bkpsdm                   7 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
-tme-kumpulankode         7 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-eby8zevin.github.io      5 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-connect-with-eby         4 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.2%20million%20lines%20of%20code-blue)
 
 
- Last Updated on 21/10/2024 17:29:18 UTC
+ Last Updated on 22/10/2024 17:27:14 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
