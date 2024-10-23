@@ -46,12 +46,32 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C722%20hrs%209%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.2%20million%20lines%20of%20code-blue)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 22/10/2024 17:27:14 UTC
+```text
+💬 Programming Languages: 
+Other                    34 hrs 14 mins      ████████████████████░░░░░   78.11 % 
+Kotlin                   2 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+XML                      2 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+Java                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+HTML                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+
+🐱‍💻 Projects: 
+Cerita-Dongeng           10 hrs 51 mins      ██████░░░░░░░░░░░░░░░░░░░   24.78 % 
+bkpsdm                   10 hrs 30 mins      ██████░░░░░░░░░░░░░░░░░░░   23.96 % 
+hai-dev.com - Copy       4 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+tme-kumpulankode         3 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+action                   3 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+```
+
+
+ Last Updated on 23/10/2024 17:27:44 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
