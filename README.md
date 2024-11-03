@@ -46,32 +46,12 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C787%20hrs%2035%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.2%20million%20lines%20of%20code-blue)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-Other                    39 hrs 56 mins      ██████████████████░░░░░░░   70.72 % 
-Dart                     9 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
-HTML                     2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
-YAML                     1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-XML                      39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-
-🐱‍💻 Projects: 
-event_app                13 hrs 39 mins      ██████░░░░░░░░░░░░░░░░░░░   24.18 % 
-Mental-Sehat-Mahasiswa   11 hrs              █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
-eby8zevin.github.io      4 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-hai-dev.com - Copy       4 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
-ypc-noqz-wbo             4 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
-```
-
-
- Last Updated on 31/10/2024 17:27:42 UTC
+ Last Updated on 03/11/2024 17:24:30 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
