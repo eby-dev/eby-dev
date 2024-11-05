@@ -46,12 +46,32 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C806%20hrs%2025%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.2%20million%20lines%20of%20code-blue)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 03/11/2024 17:24:30 UTC
+```text
+💬 Programming Languages: 
+Other                    27 hrs 35 mins      ████████████████████░░░░░   81.37 % 
+Dart                     3 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+XML                      38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+Markdown                 22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+Go                       19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+
+🐱‍💻 Projects: 
+event_app                7 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   21.44 % 
+DC-EventApps             7 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
+CameraK                  4 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+ypc-noqz-wbo             4 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Mental-Sehat-Mahasiswa   3 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+```
+
+
+ Last Updated on 05/11/2024 17:28:29 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
