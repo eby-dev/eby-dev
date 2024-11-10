@@ -46,32 +46,14 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C830%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C851%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.3%20million%20lines%20of%20code-blue)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-Other                    32 hrs 20 mins      ████████████████████░░░░░   79.84 % 
-Dart                     3 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-PHP                      1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
-YAML                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
-JavaScript               26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-
-🐱‍💻 Projects: 
-android-ptcn             9 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
-DC-EventApps             7 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
-laravel-untuk-pemula     5 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-test_mge_ahmadabuhasan   4 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
-CameraK                  4 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-```
-
-
- Last Updated on 08/11/2024 17:26:45 UTC
+ Last Updated on 10/11/2024 17:23:44 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
