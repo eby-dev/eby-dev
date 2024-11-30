@@ -33,11 +33,7 @@ because it teaches you how to think.” - Steve Jobs
 
 | Project | Time |
 | -- | -- |
-| bkpsdm (Kotlin) | [![wakatime](https://wakatime.com/badge/user/bbcd646f-1daf-4865-a20e-46d4c803e6f8/project/00d05ad7-1697-4cf2-b0d9-81a860346448.svg)](https://wakatime.com/badge/user/bbcd646f-1daf-4865-a20e-46d4c803e6f8/project/00d05ad7-1697-4cf2-b0d9-81a860346448) |
-| al-azhar-mobile (Flutter) | [![wakatime](https://wakatime.com/badge/user/bbcd646f-1daf-4865-a20e-46d4c803e6f8/project/018d6782-421c-4fce-8b8f-92fb78d5324d.svg)](https://wakatime.com/badge/user/bbcd646f-1daf-4865-a20e-46d4c803e6f8/project/018d6782-421c-4fce-8b8f-92fb78d5324d) |
-| android-ptcn (Flutter) | [![wakatime](https://wakatime.com/badge/user/bbcd646f-1daf-4865-a20e-46d4c803e6f8/project/018d6884-533a-4d65-91d7-b4aaf5eac799.svg)](https://wakatime.com/badge/user/bbcd646f-1daf-4865-a20e-46d4c803e6f8/project/018d6884-533a-4d65-91d7-b4aaf5eac799) |
-| SIDIVA (Flutter) | [![wakatime](https://wakatime.com/badge/user/bbcd646f-1daf-4865-a20e-46d4c803e6f8/project/51509fe2-c0b2-4d4c-bd8a-61e0d86cc64c.svg)](https://wakatime.com/badge/user/bbcd646f-1daf-4865-a20e-46d4c803e6f8/project/51509fe2-c0b2-4d4c-bd8a-61e0d86cc64c) |
-| _bkpsdm (Flutter) | [![wakatime](https://wakatime.com/badge/user/bbcd646f-1daf-4865-a20e-46d4c803e6f8/project/7f58ed9f-4943-476c-9102-617b9caf2795.svg)](https://wakatime.com/badge/user/bbcd646f-1daf-4865-a20e-46d4c803e6f8/project/7f58ed9f-4943-476c-9102-617b9caf2795) |
+| brighton-android (Java X Kotlin) | [![wakatime](https://wakatime.com/badge/user/bbcd646f-1daf-4865-a20e-46d4c803e6f8/project/f6ae2e59-c1e7-4472-9488-29a454ebe4e5.svg)](https://wakatime.com/badge/user/bbcd646f-1daf-4865-a20e-46d4c803e6f8/project/f6ae2e59-c1e7-4472-9488-29a454ebe4e5) |
 
 </details>
 
