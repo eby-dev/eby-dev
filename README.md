@@ -42,32 +42,12 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C965%20hrs%2012%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.0%20million%20lines%20of%20code-blue)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-Other                    23 hrs 47 mins      █████████████░░░░░░░░░░░░   51.94 % 
-Java                     8 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
-Kotlin                   7 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
-XML                      2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-Text                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-
-🐱‍💻 Projects: 
-brighton-android         32 hrs 17 mins      ██████████████████░░░░░░░   70.47 % 
-pos-kasir-php            5 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
-Netco                    2 hrs 39 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-android-mvp-architecture 1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
-CeritaDongeng            1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-```
-
-
- Last Updated on 30/11/2024 17:26:00 UTC
+ Last Updated on 01/12/2024 17:25:36 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
