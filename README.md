@@ -42,12 +42,32 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C003%20hrs%2026%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.0%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.2%20million%20lines%20of%20code-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    27 hrs 43 mins      ████████████░░░░░░░░░░░░░   48.34 % 
+Kotlin                   15 hrs 40 mins      ███████░░░░░░░░░░░░░░░░░░   27.31 % 
+Java                     9 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+XML                      3 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+TOML                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+
+🐱‍💻 Projects: 
+brighton-android         53 hrs 51 mins      ███████████████████████░░   93.88 % 
+CeritaDongeng            1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+bkpsdm                   47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+dogecoin                 24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Android-forBeginners     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+```
 
 
- Last Updated on 01/12/2024 17:25:36 UTC
+ Last Updated on 04/12/2024 17:29:50 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
