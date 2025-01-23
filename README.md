@@ -1,5 +1,16 @@
 ### Hello World <img src="https://github.com/eby8zevin/eby8zevin/blob/main/assets/Hi.gif"  width="23" height="23">
 
+<table style="border-collapse: collapse; margin: auto;">
+  <tr style="border: none;">
+    <td style="border: none; font-size: 20px; text-align: center;">I'm active on</td>
+    <td style="border: none; text-align: center;">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab">
+      </a>
+    </td>
+  </tr>
+</table>
+
 #### I'm Ahmad Abu Hasan, a passionate self-taught programmer from Indonesia
 
 ![GitHub Follow](https://img.shields.io/github/followers/eby8zevin.svg?style=social&label=Follow)
