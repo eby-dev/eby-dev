@@ -4,7 +4,7 @@
   <tr style="border: none;">
     <td style="border: none; font-size: 20px; text-align: center;">I'm active on</td>
     <td style="border: none; text-align: center;">
-      <a href="https://skillicons.dev">
+      <a href="https://gitlab.com/ahmadabuhasan">
         <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab">
       </a>
     </td>
