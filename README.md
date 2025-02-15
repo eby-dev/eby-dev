@@ -53,32 +53,14 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C546%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C577%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.4%20million%20lines%20of%20code-blue)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-Other                    34 hrs 12 mins      ███████████████░░░░░░░░░░   58.54 % 
-Java                     8 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-Kotlin                   7 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-PHP                      4 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
-XML                      1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-
-🐱‍💻 Projects: 
-brighton-android         42 hrs 3 mins       ██████████████████░░░░░░░   72.00 % 
-pos-kasir-php            11 hrs 15 mins      █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
-connect-with-eby         1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-kqh-faei-edg             1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
-bkpsdm                   48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-```
-
-
- Last Updated on 12/02/2025 17:30:23 UTC
+ Last Updated on 15/02/2025 17:26:53 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
