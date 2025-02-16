@@ -53,14 +53,32 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C577%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C588%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.4%20million%20lines%20of%20code-blue)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 15/02/2025 17:26:53 UTC
+```text
+💬 Programming Languages: 
+Other                    36 hrs 10 mins      █████████████░░░░░░░░░░░░   53.20 % 
+Java                     21 hrs 5 mins       ████████░░░░░░░░░░░░░░░░░   31.01 % 
+PHP                      3 hrs 52 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+XML                      2 hrs 56 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+Kotlin                   2 hrs 55 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+
+🐱‍💻 Projects: 
+brighton-android         52 hrs 39 mins      ███████████████████░░░░░░   77.43 % 
+pos-kasir-php            9 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+bnr-wkma-wsx             2 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+wmo-shji-kkp             1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+bkpsdm                   50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+```
+
+
+ Last Updated on 16/02/2025 17:24:24 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
