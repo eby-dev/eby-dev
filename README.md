@@ -53,12 +53,32 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C883%20hrs%2021%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.7%20million%20lines%20of%20code-blue)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 27/03/2025 17:26:42 UTC
+```text
+💬 Programming Languages: 
+Other                    29 hrs 9 mins       ██████████░░░░░░░░░░░░░░░   41.53 % 
+XML                      16 hrs 31 mins      ██████░░░░░░░░░░░░░░░░░░░   23.52 % 
+Kotlin                   11 hrs 45 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+Java                     8 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+Image (svg)              4 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+
+🐱‍💻 Projects: 
+brighton-android         62 hrs 6 mins       ██████████████████████░░░   88.43 % 
+Sketsa UI Bright Oxygen  7 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+CarouselLayoutManager    17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+VerticalViewPager        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Timeline-View            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+```
+
+
+ Last Updated on 28/03/2025 17:26:19 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
