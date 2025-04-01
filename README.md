@@ -55,7 +55,7 @@ because it teaches you how to think.” - Steve Jobs
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-7%2C889%20hrs%2049%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.7%20million%20lines%20of%20code-blue)
 
@@ -63,21 +63,19 @@ because it teaches you how to think.” - Steve Jobs
 
 ```text
 💬 Programming Languages: 
-Other                    20 hrs 23 mins      ██████████░░░░░░░░░░░░░░░   40.25 % 
-XML                      10 hrs 56 mins      █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
-Kotlin                   9 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
-Java                     6 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
-Image (svg)              3 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+Other                    17 hrs 40 mins      ███████████░░░░░░░░░░░░░░   43.22 % 
+Kotlin                   8 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
+XML                      6 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
+Java                     5 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+Image (svg)              2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
 
 🐱‍💻 Projects: 
-brighton-android         45 hrs 1 min        ██████████████████████░░░   88.89 % 
-Sketsa UI Bright Oxygen  5 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-Timeline-View            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-VerticalViewPager        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+brighton-android         37 hrs 23 mins      ███████████████████████░░   91.48 % 
+Sketsa UI Bright Oxygen  3 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
 ```
 
 
- Last Updated on 31/03/2025 17:26:11 UTC
+ Last Updated on 01/04/2025 17:27:37 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
