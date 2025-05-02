@@ -53,32 +53,12 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C058%20hrs%201%20min-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.1%20million%20lines%20of%20code-blue)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-Other                    25 hrs 26 mins      █████████████░░░░░░░░░░░░   51.86 % 
-Kotlin                   13 hrs 11 mins      ███████░░░░░░░░░░░░░░░░░░   26.88 % 
-XML                      6 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-Java                     2 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-Image (svg)              1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-
-🐱‍💻 Projects: 
-brighton-android         45 hrs 59 mins      ███████████████████████░░   93.75 % 
-Sketsa UI Bright Oxygen  2 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
-Unknown Project          19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
-hrv-dffc-idt             16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-sentry-java              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-```
-
-
- Last Updated on 01/05/2025 17:27:37 UTC
+ Last Updated on 02/05/2025 17:28:25 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
