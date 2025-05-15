@@ -53,32 +53,30 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C159%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C171%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.7%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Kotlin                   21 hrs 47 mins      █████████░░░░░░░░░░░░░░░░   37.48 % 
-Java                     13 hrs 48 mins      ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
-XML                      10 hrs 11 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
-Other                    9 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-HTTP Request             2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Kotlin                   27 hrs 10 mins      ███████████░░░░░░░░░░░░░░   45.42 % 
+Java                     11 hrs 50 mins      █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
+XML                      11 hrs 16 mins      █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
+Other                    7 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+HTTP Request             1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
 
 🐱‍💻 Projects: 
-brighton-android         54 hrs 7 mins       ███████████████████████░░   93.10 % 
-Unknown Project          2 hrs 41 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-Sketsa UI Bright Oxygen  38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-j-sorter                 32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
-android-youtube-player   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+brighton-android         57 hrs 58 mins      ████████████████████████░   96.87 % 
+Unknown Project          1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+android-youtube-player   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 ```
 
 
- Last Updated on 14/05/2025 17:26:31 UTC
+ Last Updated on 15/05/2025 17:26:28 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
