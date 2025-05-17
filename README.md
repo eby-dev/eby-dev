@@ -53,28 +53,28 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C183%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C191%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.7%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.2%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Kotlin                   29 hrs 35 mins      ████████████░░░░░░░░░░░░░   47.72 % 
-XML                      14 hrs 53 mins      ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
-Java                     9 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
-Other                    8 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Kotlin                   30 hrs              ████████████░░░░░░░░░░░░░   49.61 % 
+XML                      14 hrs 16 mins      ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
+Other                    8 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+Java                     7 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
 Gradle                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🐱‍💻 Projects: 
-brighton-android         62 hrs 1 min        █████████████████████████   100.00 % 
+brighton-android         60 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/05/2025 17:25:08 UTC
+ Last Updated on 17/05/2025 17:23:37 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
