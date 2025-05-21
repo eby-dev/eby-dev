@@ -53,32 +53,12 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C196%20hrs%2044%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.2%20million%20lines%20of%20code-blue)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-Kotlin                   25 hrs 1 min        ███████████░░░░░░░░░░░░░░   45.05 % 
-XML                      13 hrs 33 mins      ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
-Other                    9 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-Java                     7 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-CSS                      21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-
-🐱‍💻 Projects: 
-brighton-android         53 hrs 50 mins      ████████████████████████░   96.95 % 
-StackUp                  51 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-tme-kumpulankode         27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-bkpsdm                   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-shopping-android-app     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-```
-
-
- Last Updated on 19/05/2025 17:26:08 UTC
+ Last Updated on 21/05/2025 17:26:00 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
