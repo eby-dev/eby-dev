@@ -53,9 +53,9 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C861%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C870%20hrs%2010%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.2%20million%20lines%20of%20code-blue)
 
@@ -63,22 +63,22 @@ because it teaches you how to think.” - Steve Jobs
 
 ```text
 💬 Programming Languages: 
-Other                    33 hrs 37 mins      ██████████████████░░░░░░░   73.46 % 
-Java                     4 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
-Kotlin                   4 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-XML                      3 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+Other                    30 hrs 32 mins      █████████████████░░░░░░░░   67.65 % 
+Kotlin                   7 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Java                     4 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+XML                      3 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
 Java Properties          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🐱‍💻 Projects: 
-brighton-android         45 hrs 15 mins      █████████████████████████   98.86 % 
-CircleImageView          26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+brighton-android         44 hrs 38 mins      █████████████████████████   98.85 % 
+CircleImageView          26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 indoweb.presensi-indoweb 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 upptime                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 fastlane                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
 
- Last Updated on 17/08/2025 17:25:59 UTC
+ Last Updated on 19/08/2025 17:26:49 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
