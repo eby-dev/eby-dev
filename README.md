@@ -53,32 +53,29 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C884%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C892%20hrs%204%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.0%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    30 hrs 10 mins      ██████████████████░░░░░░░   73.69 % 
-Kotlin                   6 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-Java                     2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
-XML                      1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Other                    26 hrs 53 mins      ██████████████████░░░░░░░   71.14 % 
+Kotlin                   5 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+Java                     3 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
+XML                      50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+Groovy                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 
 🐱‍💻 Projects: 
-brighton-android         40 hrs 51 mins      █████████████████████████   99.78 % 
-indoweb.presensi-indoweb 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-FirstRepository          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-upptime                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-fastlane                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+brighton-android         37 hrs 46 mins      █████████████████████████   99.95 % 
+FirstRepository          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 ```
 
 
- Last Updated on 21/08/2025 17:31:38 UTC
+ Last Updated on 22/08/2025 17:27:47 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
