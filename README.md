@@ -53,12 +53,32 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C961%20hrs%2052%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.0%20million%20lines%20of%20code-blue)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 30/08/2025 17:22:36 UTC
+```text
+💬 Programming Languages: 
+Other                    47 hrs 1 min        ███████████████████░░░░░░   75.20 % 
+Java                     10 hrs 28 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+Kotlin                   4 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+XML                      39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+PHP                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+
+🐱‍💻 Projects: 
+brighton-android         60 hrs 18 mins      ████████████████████████░   96.43 % 
+android-youtube-player   1 hr 4 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Fast-Android-Networking  45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+brighton                 22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+geoshare                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+```
+
+
+ Last Updated on 31/08/2025 17:23:04 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
