@@ -53,12 +53,32 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-9%2C078%20hrs%2035%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.3%20million%20lines%20of%20code-blue)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 16/09/2025 17:25:38 UTC
+```text
+💬 Programming Languages: 
+Other                    43 hrs 47 mins      █████████████████░░░░░░░░   67.12 % 
+XML                      9 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+Kotlin                   8 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+Java                     1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Groovy                   50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+
+🐱‍💻 Projects: 
+brighton-android         57 hrs 48 mins      ██████████████████████░░░   88.63 % 
+PointOfSale              4 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+Android-PointOfSale      56 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+pzn                      49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+barcodescanner           30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+```
+
+
+ Last Updated on 17/09/2025 17:25:15 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
