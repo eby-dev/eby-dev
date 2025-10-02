@@ -53,30 +53,29 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%2C218%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%2C232%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.3%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    34 hrs 58 mins      ████████████░░░░░░░░░░░░░   46.08 % 
-Kotlin                   23 hrs 4 mins       ████████░░░░░░░░░░░░░░░░░   30.39 % 
-XML                      13 hrs 26 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-Java                     4 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-Java Properties          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Other                    36 hrs 30 mins      ████████████░░░░░░░░░░░░░   46.22 % 
+Kotlin                   26 hrs 12 mins      ████████░░░░░░░░░░░░░░░░░   33.18 % 
+XML                      11 hrs 37 mins      ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Java                     4 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+Java Properties          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🐱‍💻 Projects: 
-brighton-android         75 hrs 45 mins      █████████████████████████   99.79 % 
-bkpsdm                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-Android-PointOfSale      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+brighton-android         78 hrs 54 mins      █████████████████████████   99.89 % 
+bkpsdm                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 ```
 
 
- Last Updated on 01/10/2025 17:27:53 UTC
+ Last Updated on 02/10/2025 17:23:46 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
