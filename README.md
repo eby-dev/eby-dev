@@ -1,4 +1,4 @@
-### Hello World <img src="https://github.com/eby8zevin/eby8zevin/blob/main/assets/Hi.gif"  width="23" height="23">
+### Hello World <img src="https://github.com/eby-dev/eby-dev/blob/main/assets/Hi.gif"  width="23" height="23">
 
 <table style="border-collapse: collapse; margin: auto;">
   <tr style="border: none;">
@@ -13,16 +13,16 @@
 
 #### I'm Ahmad Abu Hasan, a passionate self-taught programmer from Indonesia
 
-![GitHub Follow](https://img.shields.io/github/followers/eby8zevin.svg?style=social&label=Follow)
-![GitHub Star](https://img.shields.io/github/stars/eby8zevin?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
+![GitHub Follow](https://img.shields.io/github/followers/eby-dev.svg?style=social&label=Follow)
+![GitHub Star](https://img.shields.io/github/stars/eby-dev?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,java,kotlin,vscode,dart,flutter,linux)](https://skillicons.dev)
 
 [![Website](https://img.shields.io/website?up_message=online&up_color=61DBFB&down_message=maintenance&down_color=FF0000&url=https%3A%2F%2Fconnect-with-eby.web.app&logo=react)](https://connect-with-eby.web.app)
-[![Waka Readme](https://github.com/eby8zevin/eby8zevin/actions/workflows/anmol098.yml/badge.svg)](https://github.com/eby8zevin/eby8zevin/actions/workflows/anmol098.yml)
+[![Waka Readme](https://github.com/eby-dev/eby-dev/actions/workflows/anmol098.yml/badge.svg)](https://github.com/eby-dev/eby-dev/actions/workflows/anmol098.yml)
 [![wakatime](https://wakatime.com/badge/user/bbcd646f-1daf-4865-a20e-46d4c803e6f8.svg)](https://wakatime.com/@bbcd646f-1daf-4865-a20e-46d4c803e6f8)
 
-<img src="https://github.com/eby8zevin/eby8zevin/blob/main/assets/Octocat.png" width="255" height="222" align='right'>
+<img src="https://github.com/eby-dev/eby-dev/blob/main/assets/Octocat.png" width="255" height="222" align='right'>
 
 ### Spotify Playing 🎧
 
@@ -84,9 +84,9 @@ eby-dev                  1 min               ░░░░░░░░░░░�
 #### Watch my contribution graph get eaten by the snake 🐍
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eby8zevin/eby8zevin/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eby8zevin/eby8zevin/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/eby8zevin/eby8zevin/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eby-dev/eby-dev/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eby-dev/eby-dev/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/eby-dev/eby-dev/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </details>
@@ -94,13 +94,13 @@ eby-dev                  1 min               ░░░░░░░░░░░�
 <details>
   <summary> :zap: <b>Github Stats</b> </summary>
 <p align="center">:heart:</p>
-<p align="center"><a href="https://github.com/eby8zevin">
-  <img src="https://github-readme-stats.vercel.app/api?username=eby8zevin&show_icons=true&theme=dark&line_height=20">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eby8zevin&layout=compact&theme=dark">
+<p align="center"><a href="https://github.com/eby-dev">
+  <img src="https://github-readme-stats.vercel.app/api?username=eby-dev&show_icons=true&theme=dark&line_height=20">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eby-dev&layout=compact&theme=dark">
 </a></p>
 <p align="center">
-  <a href="https://github.com/eby8zevin">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=eby8zevin&theme=dark"/>
+  <a href="https://github.com/eby-dev">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=eby-dev&theme=dark"/>
   </a>
 </p>
 </details>
