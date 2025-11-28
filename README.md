@@ -53,32 +53,32 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%2C645%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%2C654%20hrs%207%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.7%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    36 hrs 31 mins      ████████████████████░░░░░   79.05 % 
-Java                     4 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
-Kotlin                   3 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-XML                      1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+Other                    38 hrs 22 mins      ████████████████████░░░░░   80.96 % 
+Kotlin                   4 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+Java                     3 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+XML                      39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 TypeScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🐱‍💻 Projects: 
-brighton-android         45 hrs 23 mins      █████████████████████████   98.23 % 
-plus_plugins             14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-Android-PointOfSale      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-Android-Image-Cropper    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+brighton-android         41 hrs 57 mins      ██████████████████████░░░   88.55 % 
+Android-Image-Cropper    4 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
+plus_plugins             14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Android-PointOfSale      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 flutterflow-issues       4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 ```
 
 
- Last Updated on 27/11/2025 17:27:38 UTC
+ Last Updated on 28/11/2025 17:29:12 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
