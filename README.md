@@ -53,32 +53,12 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%2C868%20hrs%2019%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.64%20million%20lines%20of%20code-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    21 hrs 57 mins      ███████████████░░░░░░░░░░   61.22 % 
-Java                     4 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-XML                      3 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
-Kotlin                   2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
-TOML                     1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
-
-🐱‍💻 Projects: 
-brighton-android         17 hrs 56 mins      ████████████░░░░░░░░░░░░░   50.00 % 
-PointOfSale              8 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   24.06 % 
-Android-PointOfSale      5 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-Android-QRBarcode        1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-eby-dev.github.io        1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.10%20million%20lines%20of%20code-blue)
 
 
- Last Updated on 01/01/2026 17:30:04 UTC
+ Last Updated on 02/01/2026 17:30:47 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
