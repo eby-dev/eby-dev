@@ -53,32 +53,32 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%2C890%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%2C898%20hrs%2054%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.22%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.22%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    25 hrs 29 mins      ███████████████░░░░░░░░░░   58.56 % 
-Kotlin                   5 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-Java                     4 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
-XML                      4 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
-TOML                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+Other                    24 hrs 39 mins      ███████████████░░░░░░░░░░   58.75 % 
+Kotlin                   5 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+Java                     5 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+XML                      3 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+TOML                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 
 🐱‍💻 Projects: 
-brighton-android         36 hrs              █████████████████████░░░░   82.71 % 
-Android-PointOfSale      3 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
-eby-dev.github.io        1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-Android-QRBarcode        1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-eby-dev                  47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+brighton-android         35 hrs 32 mins      █████████████████████░░░░   84.70 % 
+Android-PointOfSale      1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+eby-dev.github.io        1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Android-QRBarcode        1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+unity-ARMarker           54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 ```
 
 
- Last Updated on 05/01/2026 17:35:06 UTC
+ Last Updated on 06/01/2026 17:35:07 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
