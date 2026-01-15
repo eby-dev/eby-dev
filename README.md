@@ -55,27 +55,27 @@ because it teaches you how to think.” - Steve Jobs
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-9%2C963%20hrs%2010%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.22%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.13%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    21 hrs 3 mins       ███████████░░░░░░░░░░░░░░   42.49 % 
-Kotlin                   13 hrs 13 mins      ███████░░░░░░░░░░░░░░░░░░   26.70 % 
-XML                      11 hrs 48 mins      ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
-Java                     3 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+Other                    19 hrs 44 mins      ██████████░░░░░░░░░░░░░░░   40.23 % 
+XML                      14 hrs 2 mins       ███████░░░░░░░░░░░░░░░░░░   28.60 % 
+Kotlin                   12 hrs 10 mins      ██████░░░░░░░░░░░░░░░░░░░   24.78 % 
+Java                     3 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
 Properties               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🐱‍💻 Projects: 
-brighton-android         49 hrs 5 mins       █████████████████████████   99.05 % 
-Android-PointOfSale      28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+brighton-android         48 hrs 37 mins      █████████████████████████   99.04 % 
+Android-PointOfSale      28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 ```
 
 
- Last Updated on 14/01/2026 17:40:18 UTC
+ Last Updated on 15/01/2026 17:44:16 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
