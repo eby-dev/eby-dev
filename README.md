@@ -53,31 +53,31 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%2C998%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%2C007%20hrs%2019%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.49%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.35%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    23 hrs 6 mins       ██████████████░░░░░░░░░░░   54.78 % 
-XML                      7 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
-Kotlin                   7 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
-Java                     3 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-Groovy                   27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+Other                    23 hrs 51 mins      ██████████████░░░░░░░░░░░   54.05 % 
+Kotlin                   10 hrs 15 mins      ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
+XML                      5 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+Java                     3 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+PHP                      40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 
 🐱‍💻 Projects: 
-brighton-android         41 hrs 37 mins      █████████████████████████   98.66 % 
-Unknown Project          16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-owt-rdyo-raw             14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+brighton-android         43 hrs 11 mins      ████████████████████████░   97.86 % 
+Unknown Project          39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+owt-rdyo-raw             14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 Hoppa                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 ```
 
 
- Last Updated on 21/01/2026 18:05:05 UTC
+ Last Updated on 22/01/2026 17:41:23 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
