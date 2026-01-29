@@ -53,9 +53,9 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%2C059%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%2C069%20hrs%2029%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.84%20million%20lines%20of%20code-blue?style=flat)
 
@@ -63,20 +63,19 @@ because it teaches you how to think.” - Steve Jobs
 
 ```text
 💬 Programming Languages: 
-Other                    25 hrs 51 mins      ███████████░░░░░░░░░░░░░░   42.43 % 
-XML                      16 hrs 26 mins      ███████░░░░░░░░░░░░░░░░░░   26.96 % 
-Kotlin                   16 hrs 2 mins       ███████░░░░░░░░░░░░░░░░░░   26.31 % 
-Java                     2 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-PHP                      22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Other                    26 hrs 41 mins      ███████████░░░░░░░░░░░░░░   42.90 % 
+XML                      18 hrs 32 mins      ███████░░░░░░░░░░░░░░░░░░   29.81 % 
+Kotlin                   15 hrs 3 mins       ██████░░░░░░░░░░░░░░░░░░░   24.21 % 
+Java                     1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+Java Properties          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🐱‍💻 Projects: 
-brighton-android         60 hrs 35 mins      █████████████████████████   99.40 % 
-Unknown Project          21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+brighton-android         62 hrs 11 mins      █████████████████████████   99.98 % 
 StateProgressBar         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
 
- Last Updated on 28/01/2026 17:46:03 UTC
+ Last Updated on 29/01/2026 17:48:57 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
