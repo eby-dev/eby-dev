@@ -53,31 +53,12 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%2C082%20hrs%202%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.87%20million%20lines%20of%20code-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-Other                    27 hrs 6 mins       ████████████░░░░░░░░░░░░░   46.27 % 
-XML                      17 hrs 15 mins      ███████░░░░░░░░░░░░░░░░░░   29.45 % 
-Kotlin                   12 hrs 50 mins      █████░░░░░░░░░░░░░░░░░░░░   21.92 % 
-Java                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-C++                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-
-🐱‍💻 Projects: 
-brighton-android         58 hrs 34 mins      █████████████████████████   99.96 % 
-Submission2-Repositorydan0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-testAndroid-Brighton     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-AppGithubUser-3          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-```
-
-
- Last Updated on 31/01/2026 17:34:21 UTC
+ Last Updated on 01/02/2026 17:35:20 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
