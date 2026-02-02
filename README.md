@@ -53,12 +53,31 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-10%2C086%20hrs%2055%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.87%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.27%20million%20lines%20of%20code-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    27 hrs 21 mins      ██████████████░░░░░░░░░░░   56.37 % 
+XML                      10 hrs 29 mins      █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
+Kotlin                   8 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
+Java                     1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+TOML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+
+🐱‍💻 Projects: 
+brighton-android         48 hrs 30 mins      █████████████████████████   99.95 % 
+Submission2-Repositorydan0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+testAndroid-Brighton     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+AppGithubUser-3          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+```
 
 
- Last Updated on 01/02/2026 17:35:20 UTC
+ Last Updated on 02/02/2026 17:50:16 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
