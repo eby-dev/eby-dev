@@ -53,32 +53,32 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%2C265%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%2C272%20hrs%2036%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.19%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.21%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    31 hrs 32 mins      ██████████████░░░░░░░░░░░   57.65 % 
-Kotlin                   16 hrs 20 mins      ███████░░░░░░░░░░░░░░░░░░   29.86 % 
-Java                     4 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-XML                      1 hr 5 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
-C++                      26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Other                    32 hrs 35 mins      ███████████████░░░░░░░░░░   60.46 % 
+Kotlin                   15 hrs 7 mins       ███████░░░░░░░░░░░░░░░░░░   28.05 % 
+Java                     4 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+XML                      59 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Git Config               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🐱‍💻 Projects: 
-brighton-android         48 hrs 21 mins      ██████████████████████░░░   88.36 % 
-StackUp                  5 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
-connect-with-eby         28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-authentication-and-author1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+brighton-android         48 hrs 5 mins       ██████████████████████░░░   89.24 % 
+StackUp                  5 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+connect-with-eby         2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 README-Spotify-Status    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+eby-dev                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 
- Last Updated on 27/02/2026 17:47:42 UTC
+ Last Updated on 28/02/2026 17:33:39 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
