@@ -53,32 +53,32 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%2C359%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%2C367%20hrs%2042%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.19%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.24%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    45 hrs 14 mins      ████████████████████░░░░░   79.76 % 
-Kotlin                   6 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-Java                     2 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
-XML                      1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
-C++                      52 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Other                    44 hrs 58 mins      ███████████████████░░░░░░   77.85 % 
+Kotlin                   5 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+Java                     3 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+XML                      1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+C++                      52 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 
 🐱‍💻 Projects: 
-brighton-android         51 hrs 58 mins      ███████████████████████░░   91.64 % 
-uigen                    1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
-claude-code              1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-Android-PointOfSale      45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-nvm-windows              22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+brighton-android         52 hrs 18 mins      ███████████████████████░░   90.55 % 
+uigen                    2 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+claude-code              1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+Android-PointOfSale      45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+nvm-windows              22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 ```
 
 
- Last Updated on 12/03/2026 17:58:56 UTC
+ Last Updated on 13/03/2026 17:45:57 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
