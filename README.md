@@ -57,28 +57,28 @@ because it teaches you how to think.” - Steve Jobs
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.77%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.29%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    24 hrs 1 min        ███████████████████░░░░░░   76.68 % 
-Java                     3 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-Kotlin                   2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
-C++                      1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
-XML                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Other                    19 hrs 43 mins      ███████████████████░░░░░░   74.83 % 
+Java                     2 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+Kotlin                   2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+C++                      55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+XML                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 
 🐱‍💻 Projects: 
-brighton-android         30 hrs 58 mins      █████████████████████████   98.83 % 
-MachineLearning-forBeginn11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-claude-code-best-practice6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-rtk                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-StackUp                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+brighton-android         26 hrs              █████████████████████████   98.61 % 
+MachineLearning-forBeginn11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+claude-code-best-practice6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+rtk                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+StackUp                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 ```
 
 
- Last Updated on 21/03/2026 17:37:57 UTC
+ Last Updated on 22/03/2026 17:36:33 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
