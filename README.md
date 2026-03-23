@@ -63,22 +63,22 @@ because it teaches you how to think.” - Steve Jobs
 
 ```text
 💬 Programming Languages: 
-Other                    19 hrs 43 mins      ███████████████████░░░░░░   74.83 % 
-Java                     2 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
-Kotlin                   2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
-C++                      55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-XML                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+Other                    15 hrs 51 mins      ██████████████████░░░░░░░   70.50 % 
+Java                     2 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Kotlin                   2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+C++                      55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+XML                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 
 🐱‍💻 Projects: 
-brighton-android         26 hrs              █████████████████████████   98.61 % 
-MachineLearning-forBeginn11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-claude-code-best-practice6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-rtk                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-StackUp                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+brighton-android         22 hrs 7 mins       █████████████████████████   98.38 % 
+MachineLearning-forBeginn11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+claude-code-best-practice6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+rtk                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+StackUp                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 ```
 
 
- Last Updated on 22/03/2026 17:36:33 UTC
+ Last Updated on 23/03/2026 18:05:23 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
