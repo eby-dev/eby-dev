@@ -63,20 +63,20 @@ because it teaches you how to think.” - Steve Jobs
 
 ```text
 💬 Programming Languages: 
-Other                    10 hrs 5 mins       █████████████████░░░░░░░░   67.42 % 
-Java                     2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-Kotlin                   1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-C++                      54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
-Java Properties          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Other                    4 hrs 1 min         █████████████░░░░░░░░░░░░   53.27 % 
+Java                     1 hr 29 mins        █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
+Kotlin                   1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+C++                      35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+Java Properties          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 
 🐱‍💻 Projects: 
-brighton-android         14 hrs 49 mins      █████████████████████████   99.05 % 
-claude-code-best-practice6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-rtk                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+brighton-android         7 hrs 24 mins       █████████████████████████   98.12 % 
+claude-code-best-practice6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+rtk                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 ```
 
 
- Last Updated on 24/03/2026 18:07:34 UTC
+ Last Updated on 25/03/2026 18:10:40 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
