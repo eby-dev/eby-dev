@@ -63,21 +63,21 @@ because it teaches you how to think.” - Steve Jobs
 
 ```text
 💬 Programming Languages: 
-Other                    16 hrs 41 mins      ████████████░░░░░░░░░░░░░   48.96 % 
-Kotlin                   13 hrs 35 mins      ██████████░░░░░░░░░░░░░░░   39.87 % 
-XML                      2 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
-Groovy                   25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
-Markdown                 22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Other                    15 hrs 15 mins      ████████████░░░░░░░░░░░░░   47.66 % 
+Kotlin                   12 hrs 58 mins      ██████████░░░░░░░░░░░░░░░   40.49 % 
+XML                      2 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+Groovy                   25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+Markdown                 22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 
 🐱‍💻 Projects: 
-brighton-android         33 hrs 55 mins      █████████████████████████   99.54 % 
-claude-code              8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-mobile-mcp               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+brighton-android         31 hrs 52 mins      █████████████████████████   99.51 % 
+claude-code              8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+mobile-mcp               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 pydantic-ai              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 
- Last Updated on 05/04/2026 17:43:42 UTC
+ Last Updated on 06/04/2026 17:59:31 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
