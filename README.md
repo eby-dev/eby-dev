@@ -53,7 +53,7 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%2C511%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%2C519%20hrs%2051%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -63,19 +63,19 @@ because it teaches you how to think.” - Steve Jobs
 
 ```text
 💬 Programming Languages: 
-Other                    13 hrs 57 mins      ██████████░░░░░░░░░░░░░░░   39.33 % 
-Kotlin                   10 hrs 42 mins      ████████░░░░░░░░░░░░░░░░░   30.15 % 
-XML                      9 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   26.05 % 
-C++                      43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-Groovy                   23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+Other                    17 hrs 40 mins      ██████████░░░░░░░░░░░░░░░   40.21 % 
+Kotlin                   12 hrs 54 mins      ███████░░░░░░░░░░░░░░░░░░   29.36 % 
+XML                      10 hrs 51 mins      ██████░░░░░░░░░░░░░░░░░░░   24.68 % 
+Java                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+C++                      46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 
 🐱‍💻 Projects: 
-brighton-android         35 hrs 29 mins      █████████████████████████   99.98 % 
-mcp-atlassian            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+brighton-android         43 hrs 57 mins      █████████████████████████   99.99 % 
+mcp-atlassian            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 
- Last Updated on 10/04/2026 17:59:21 UTC
+ Last Updated on 11/04/2026 17:43:15 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
