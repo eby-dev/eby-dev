@@ -53,32 +53,31 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%2C535%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%2C542%20hrs%203%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.43%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.48%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    21 hrs 26 mins      ███████████░░░░░░░░░░░░░░   42.07 % 
-Kotlin                   13 hrs 49 mins      ███████░░░░░░░░░░░░░░░░░░   27.13 % 
-XML                      10 hrs 12 mins      █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
-Java                     2 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
-C++                      1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+Other                    18 hrs 57 mins      ██████████░░░░░░░░░░░░░░░   39.75 % 
+Kotlin                   13 hrs 58 mins      ███████░░░░░░░░░░░░░░░░░░   29.31 % 
+XML                      7 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+Java                     4 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+C++                      2 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
 
 🐱‍💻 Projects: 
-brighton-android         50 hrs 15 mins      █████████████████████████   98.57 % 
-nvm                      28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
-nvm-windows              14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
-mcp-atlassian            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+brighton-android         46 hrs 57 mins      █████████████████████████   98.49 % 
+nvm                      28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+nvm-windows              14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 node                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 
- Last Updated on 14/04/2026 18:16:52 UTC
+ Last Updated on 15/04/2026 18:19:40 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
