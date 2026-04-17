@@ -53,32 +53,32 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%2C552%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%2C564%20hrs%2022%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.95%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.00%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Kotlin                   19 hrs 42 mins      ██████████░░░░░░░░░░░░░░░   39.82 % 
-Other                    15 hrs 56 mins      ████████░░░░░░░░░░░░░░░░░   32.20 % 
-XML                      5 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
-Java                     4 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
-C++                      2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+Kotlin                   21 hrs 31 mins      ██████████░░░░░░░░░░░░░░░   40.63 % 
+Other                    17 hrs 17 mins      ████████░░░░░░░░░░░░░░░░░   32.64 % 
+Java                     5 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
+XML                      5 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+C++                      1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
 
 🐱‍💻 Projects: 
-brighton-android         48 hrs 3 mins       ████████████████████████░   97.04 % 
-brighton                 34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-nvm                      28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-nvm-windows              14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
-property-api             9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+brighton-android         48 hrs 27 mins      ███████████████████████░░   91.43 % 
+tradingview-mcp          1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+linkedin-mcp-server      1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+pyenv-win                37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+brighton                 34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 ```
 
 
- Last Updated on 16/04/2026 18:18:45 UTC
+ Last Updated on 17/04/2026 18:02:11 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
