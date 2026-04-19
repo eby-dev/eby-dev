@@ -53,6 +53,8 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-10%2C577%20hrs%2053%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.00%20million%20lines%20of%20code-blue?style=flat)
@@ -61,22 +63,22 @@ because it teaches you how to think.” - Steve Jobs
 
 ```text
 💬 Programming Languages: 
-Kotlin                   21 hrs 5 mins       ██████████░░░░░░░░░░░░░░░   41.18 % 
-Other                    17 hrs 34 mins      █████████░░░░░░░░░░░░░░░░   34.34 % 
-Java                     5 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-XML                      3 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-C++                      1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+Kotlin                   21 hrs 31 mins      ███████████░░░░░░░░░░░░░░   43.39 % 
+Other                    15 hrs 50 mins      ████████░░░░░░░░░░░░░░░░░   31.95 % 
+Java                     5 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+XML                      3 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+C++                      1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
 
 🐱‍💻 Projects: 
-brighton-android         46 hrs 8 mins       ███████████████████████░░   90.09 % 
-linkedin-mcp-server      1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-tradingview-mcp          1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-pyenv-win                37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
-brighton                 34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+brighton-android         45 hrs 15 mins      ███████████████████████░░   91.22 % 
+linkedin-mcp-server      1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+tradingview-mcp          1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+pyenv-win                37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+brighton                 34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 ```
 
 
- Last Updated on 18/04/2026 17:47:14 UTC
+ Last Updated on 19/04/2026 17:50:09 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
