@@ -53,32 +53,32 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%2C604%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%2C623%20hrs-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.00%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.95%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    33 hrs 9 mins       ██████████████░░░░░░░░░░░   55.63 % 
-Kotlin                   18 hrs 32 mins      ████████░░░░░░░░░░░░░░░░░   31.13 % 
-Java                     3 hrs 27 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-XML                      2 hrs 44 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-PHP                      44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+Other                    40 hrs 46 mins      █████████████████░░░░░░░░   68.68 % 
+Kotlin                   11 hrs 4 mins       █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
+Java                     3 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+XML                      2 hrs 43 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+TOML                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 🐱‍💻 Projects: 
-brighton-android         50 hrs 3 mins       █████████████████████░░░░   84.01 % 
-indoweb.epesantren-wali  2 hrs 52 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-linkedin-mcp-server      1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
-github-mcp-server        1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-tradingview-mcp          1 hr 6 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+brighton-android         50 hrs 35 mins      █████████████████████░░░░   85.20 % 
+indoweb.epesantren-wali  2 hrs 52 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+linkedin-mcp-server      1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+github-mcp-server        1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+tradingview-mcp          1 hr 6 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
 ```
 
 
- Last Updated on 22/04/2026 18:11:43 UTC
+ Last Updated on 23/04/2026 18:20:04 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
