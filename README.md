@@ -53,9 +53,9 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%2C623%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%2C622%20hrs%2023%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.95%20million%20lines%20of%20code-blue?style=flat)
 
@@ -63,22 +63,22 @@ because it teaches you how to think.” - Steve Jobs
 
 ```text
 💬 Programming Languages: 
-Other                    40 hrs 46 mins      █████████████████░░░░░░░░   68.68 % 
-Kotlin                   11 hrs 4 mins       █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
-Java                     3 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-XML                      2 hrs 43 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
-TOML                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Other                    40 hrs 51 mins      ███████████████████░░░░░░   74.60 % 
+Kotlin                   7 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+Java                     3 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+XML                      1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+C++                      31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 
 🐱‍💻 Projects: 
-brighton-android         50 hrs 35 mins      █████████████████████░░░░   85.20 % 
-indoweb.epesantren-wali  2 hrs 52 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
-linkedin-mcp-server      1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
-github-mcp-server        1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
-tradingview-mcp          1 hr 6 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+brighton-android         49 hrs 3 mins       ██████████████████████░░░   89.58 % 
+indoweb.epesantren-wali  2 hrs 52 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+github-mcp-server        1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+linkedin-mcp-server      46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+indoweb.adminsekolah-pres14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 ```
 
 
- Last Updated on 23/04/2026 18:20:04 UTC
+ Last Updated on 24/04/2026 18:01:28 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
