@@ -53,7 +53,7 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%2C646%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%2C654%20hrs%2018%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -63,22 +63,22 @@ because it teaches you how to think.” - Steve Jobs
 
 ```text
 💬 Programming Languages: 
-Other                    35 hrs 43 mins      █████████████████░░░░░░░░   69.08 % 
-Kotlin                   6 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Java                     5 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-XML                      2 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
-C++                      32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+Other                    30 hrs 53 mins      ████████████████░░░░░░░░░   62.52 % 
+Kotlin                   5 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+XML                      5 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+Java                     5 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+C++                      35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 
 🐱‍💻 Projects: 
-brighton-android         48 hrs 42 mins      ████████████████████████░   94.17 % 
-submission-708           2 hrs 43 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-linkedin-mcp-server      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+brighton-android         46 hrs 33 mins      ████████████████████████░   94.25 % 
+submission-708           2 hrs 43 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+all-science-sims         3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+linkedin-mcp-server      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 brighton                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-pentest-ai-agents        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 
- Last Updated on 28/04/2026 18:30:06 UTC
+ Last Updated on 29/04/2026 18:24:21 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
