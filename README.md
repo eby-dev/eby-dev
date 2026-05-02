@@ -53,7 +53,7 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%2C670%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%2C676%20hrs%2033%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -63,22 +63,22 @@ because it teaches you how to think.” - Steve Jobs
 
 ```text
 💬 Programming Languages: 
-Other                    24 hrs 23 mins      █████████████░░░░░░░░░░░░   50.76 % 
-XML                      10 hrs 25 mins      █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
-Kotlin                   6 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
-Java                     5 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-Python                   25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Other                    25 hrs 18 mins      █████████████░░░░░░░░░░░░   53.87 % 
+XML                      10 hrs 29 mins      ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
+Kotlin                   5 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+Java                     4 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+Python                   25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 🐱‍💻 Projects: 
-brighton-android         45 hrs 7 mins       ███████████████████████░░   93.93 % 
-submission-708           2 hrs 43 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
-all-science-sims         8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-linkedin-mcp-server      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-brighton                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+brighton-android         43 hrs 31 mins      ███████████████████████░░   92.64 % 
+submission-708           2 hrs 43 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+linkedin-mcp-server      29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+all-science-sims         8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 ```
 
 
- Last Updated on 01/05/2026 18:14:23 UTC
+ Last Updated on 02/05/2026 17:57:46 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
