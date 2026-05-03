@@ -53,32 +53,32 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%2C676%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%2C684%20hrs%2051%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.95%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.25%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    25 hrs 18 mins      █████████████░░░░░░░░░░░░   53.87 % 
-XML                      10 hrs 29 mins      ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
-Kotlin                   5 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-Java                     4 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-Python                   25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+Other                    28 hrs 23 mins      ██████████████░░░░░░░░░░░   57.17 % 
+XML                      11 hrs              ██████░░░░░░░░░░░░░░░░░░░   22.17 % 
+Kotlin                   5 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+Java                     3 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+Java Properties          14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 🐱‍💻 Projects: 
-brighton-android         43 hrs 31 mins      ███████████████████████░░   92.64 % 
-submission-708           2 hrs 43 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-linkedin-mcp-server      29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
-all-science-sims         8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+brighton-android         47 hrs 15 mins      ████████████████████████░   95.15 % 
+submission-708           1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+linkedin-mcp-server      28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+all-science-sims         8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 ```
 
 
- Last Updated on 02/05/2026 17:57:46 UTC
+ Last Updated on 03/05/2026 17:56:52 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
