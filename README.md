@@ -53,32 +53,32 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%2C688%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%2C695%20hrs%2050%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.25%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.39%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    29 hrs 22 mins      ███████████████░░░░░░░░░░   59.13 % 
-XML                      10 hrs 44 mins      █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
-Kotlin                   5 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-Java                     3 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
-Java Properties          14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Other                    28 hrs 13 mins      ██████████████░░░░░░░░░░░   56.97 % 
+XML                      10 hrs 50 mins      █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
+Kotlin                   7 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+Java                     2 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+Java Properties          12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 🐱‍💻 Projects: 
-brighton-android         46 hrs 52 mins      ████████████████████████░   94.36 % 
-StackUp                  1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+brighton-android         46 hrs 41 mins      ████████████████████████░   94.22 % 
+StackUp                  1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
 linkedin-mcp-server      28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 all-science-sims         8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 test-HappyPuppy          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 ```
 
 
- Last Updated on 04/05/2026 18:25:21 UTC
+ Last Updated on 05/05/2026 18:23:22 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
