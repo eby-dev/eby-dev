@@ -53,32 +53,32 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%2C714%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%2C726%20hrs%2038%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.39%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.87%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    28 hrs 59 mins      ██████████████░░░░░░░░░░░   55.51 % 
-Kotlin                   12 hrs 16 mins      ██████░░░░░░░░░░░░░░░░░░░   23.52 % 
-XML                      6 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-Java                     2 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-TOML                     33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Other                    30 hrs 24 mins      ██████████████░░░░░░░░░░░   54.11 % 
+Kotlin                   14 hrs 57 mins      ███████░░░░░░░░░░░░░░░░░░   26.61 % 
+XML                      3 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+Java                     3 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+Groovy                   41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 
 🐱‍💻 Projects: 
-brighton-android         45 hrs 55 mins      ██████████████████████░░░   87.92 % 
-StackUp                  1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
-PointOfSale              1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-Android-PointOfSale      1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
-pzn                      40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+brighton-android         45 hrs 42 mins      ████████████████████░░░░░   81.32 % 
+Android-PointOfSale      4 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+StackUp                  1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+PointOfSale              1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+tradingview-mcp          49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 ```
 
 
- Last Updated on 07/05/2026 18:37:46 UTC
+ Last Updated on 08/05/2026 18:24:26 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
