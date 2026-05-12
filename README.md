@@ -53,7 +53,7 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%2C744%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%2C769%20hrs%206%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -63,22 +63,22 @@ because it teaches you how to think.” - Steve Jobs
 
 ```text
 💬 Programming Languages: 
-Other                    24 hrs 43 mins      ███████████░░░░░░░░░░░░░░   44.06 % 
-Kotlin                   17 hrs 57 mins      ████████░░░░░░░░░░░░░░░░░   32.01 % 
-Java                     4 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-XML                      2 hrs 48 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-Groovy                   1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+Other                    27 hrs 25 mins      ███████████░░░░░░░░░░░░░░   44.92 % 
+Kotlin                   18 hrs 41 mins      ████████░░░░░░░░░░░░░░░░░   30.61 % 
+Java                     4 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+XML                      3 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+C++                      1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
 
 🐱‍💻 Projects: 
-brighton-android         39 hrs 7 mins       █████████████████░░░░░░░░   69.73 % 
-Android-PointOfSale      9 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-tradingview-mcp          2 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-PointOfSale              1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-Belajar-Fundamental-Pemro1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+brighton-android         46 hrs 8 mins       ███████████████████░░░░░░   75.58 % 
+Android-PointOfSale      9 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+tradingview-mcp          2 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+Belajar-Fundamental-Pemro1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+playwright-mcp           34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 ```
 
 
- Last Updated on 11/05/2026 19:10:13 UTC
+ Last Updated on 12/05/2026 19:08:57 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
