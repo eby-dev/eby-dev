@@ -53,32 +53,14 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%2C775%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%2C777%20hrs%2018%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.48%20million%20lines%20of%20code-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-Other                    26 hrs 12 mins      ███████████░░░░░░░░░░░░░░   42.98 % 
-Kotlin                   20 hrs 35 mins      ████████░░░░░░░░░░░░░░░░░   33.78 % 
-XML                      4 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-Java                     3 hrs 32 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-C++                      1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-
-🐱‍💻 Projects: 
-brighton-android         47 hrs 19 mins      ███████████████████░░░░░░   77.62 % 
-Android-PointOfSale      7 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-tradingview-mcp          2 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
-Belajar-Fundamental-Pemro1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-playwright-mcp           34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-```
-
-
- Last Updated on 14/05/2026 19:05:35 UTC
+ Last Updated on 15/05/2026 18:32:47 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
