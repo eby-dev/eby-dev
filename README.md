@@ -53,14 +53,32 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%2C849%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%2C854%20hrs%2037%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.49%20million%20lines%20of%20code-blue?style=flat)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 23/05/2026 18:10:17 UTC
+```text
+💬 Programming Languages: 
+Other                    31 hrs 19 mins      █████████████░░░░░░░░░░░░   50.08 % 
+Kotlin                   19 hrs 22 mins      ████████░░░░░░░░░░░░░░░░░   30.96 % 
+Java                     4 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+XML                      4 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+Markdown                 1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+
+🐱‍💻 Projects: 
+brighton-android         57 hrs 24 mins      ███████████████████████░░   91.78 % 
+bright-staff             5 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+bkpsdm                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+connect-with-eby         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+StackUp                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+```
+
+
+ Last Updated on 24/05/2026 18:08:07 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
