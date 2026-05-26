@@ -45,6 +45,7 @@ because it teaches you how to think.” - Steve Jobs
 | Project | Time |
 | -- | -- |
 | brighton-android (Java X Kotlin) | [![wakatime](https://wakatime.com/badge/user/bbcd646f-1daf-4865-a20e-46d4c803e6f8/project/f6ae2e59-c1e7-4472-9488-29a454ebe4e5.svg)](https://wakatime.com/badge/user/bbcd646f-1daf-4865-a20e-46d4c803e6f8/project/f6ae2e59-c1e7-4472-9488-29a454ebe4e5) |
+| bright-staff (Kotlin) | [![wakatime](https://wakatime.com/badge/user/bbcd646f-1daf-4865-a20e-46d4c803e6f8/project/f089b57d-f2ae-4a1c-ae19-a066828f5559.svg)](https://wakatime.com/badge/user/bbcd646f-1daf-4865-a20e-46d4c803e6f8/project/f089b57d-f2ae-4a1c-ae19-a066828f5559) |
 
 </details>
 
@@ -91,6 +92,7 @@ bkpsdm                   2 mins              ░░░░░░░░░░░�
 
 </details>
 
+<!--
 <details>
   <summary> :zap: <b>Github Stats</b> </summary>
 <p align="center">:heart:</p>
@@ -104,7 +106,9 @@ bkpsdm                   2 mins              ░░░░░░░░░░░�
   </a>
 </p>
 </details>
+-->
 
+<!--
 <details>
   <summary> :zap: <b>Github Badges</b> </summary>
   <br>
@@ -114,5 +118,6 @@ bkpsdm                   2 mins              ░░░░░░░░░░░�
   <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
   <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
 </details>
+-->
 
 ---
