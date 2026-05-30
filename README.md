@@ -64,22 +64,22 @@ because it teaches you how to think.” - Steve Jobs
 
 ```text
 💬 Programming Languages: 
-Other                    32 hrs 5 mins       █████████████░░░░░░░░░░░░   53.74 % 
-Kotlin                   12 hrs 31 mins      █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
-XML                      6 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-Java                     4 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-HTML                     1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+Other                    33 hrs 22 mins      █████████████░░░░░░░░░░░░   51.64 % 
+Kotlin                   15 hrs 10 mins      ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
+XML                      6 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
+Java                     5 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+HTML                     1 hr 12 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
 
 🐱‍💻 Projects: 
-brighton-android         42 hrs 17 mins      ██████████████████░░░░░░░   70.84 % 
-Android-QRBarcode        6 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-bright-staff             4 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Android-PointOfSale      3 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
-eby-dev.github.io        2 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+brighton-android         48 hrs 18 mins      ███████████████████░░░░░░   74.77 % 
+Android-QRBarcode        6 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+Android-PointOfSale      3 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+eby-dev.github.io        2 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+bright-staff             1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 ```
 
 
- Last Updated on 29/05/2026 19:42:56 UTC
+ Last Updated on 30/05/2026 18:14:59 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
