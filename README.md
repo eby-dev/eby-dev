@@ -54,7 +54,7 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%2C922%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%2C934%20hrs%2043%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
@@ -64,22 +64,22 @@ because it teaches you how to think.” - Steve Jobs
 
 ```text
 💬 Programming Languages: 
-Other                    27 hrs 17 mins      ████████████░░░░░░░░░░░░░   49.78 % 
-Kotlin                   13 hrs 46 mins      ██████░░░░░░░░░░░░░░░░░░░   25.12 % 
-Java                     5 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-XML                      5 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-Groovy                   1 hr                ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+Other                    27 hrs 37 mins      ██████████████░░░░░░░░░░░   55.45 % 
+Kotlin                   11 hrs 7 mins       ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
+Java                     5 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+XML                      2 hrs 51 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+Groovy                   1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
 
 🐱‍💻 Projects: 
-brighton-android         41 hrs 50 mins      ███████████████████░░░░░░   76.31 % 
-Android-QRBarcode        6 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-Android-PointOfSale      2 hrs 44 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
-skills                   1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-eby-dev.github.io        46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+brighton-android         36 hrs 48 mins      ██████████████████░░░░░░░   73.90 % 
+Android-QRBarcode        6 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+Android-PointOfSale      2 hrs 44 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+skills                   1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+eby-dev.github.io        46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 ```
 
 
- Last Updated on 01/06/2026 21:07:19 UTC
+ Last Updated on 02/06/2026 20:19:05 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
