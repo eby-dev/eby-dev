@@ -54,9 +54,9 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%2C934%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%2C948%20hrs%2028%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.56%20million%20lines%20of%20code-blue?style=flat)
 
@@ -64,22 +64,22 @@ because it teaches you how to think.” - Steve Jobs
 
 ```text
 💬 Programming Languages: 
-Other                    27 hrs 37 mins      ██████████████░░░░░░░░░░░   55.45 % 
-Kotlin                   11 hrs 7 mins       ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
-Java                     5 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-XML                      2 hrs 51 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-Groovy                   1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+Other                    32 hrs 16 mins      ████████████████░░░░░░░░░   63.10 % 
+Kotlin                   8 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+XML                      3 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+Java                     3 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+PHP                      1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
 
 🐱‍💻 Projects: 
-brighton-android         36 hrs 48 mins      ██████████████████░░░░░░░   73.90 % 
-Android-QRBarcode        6 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-Android-PointOfSale      2 hrs 44 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-skills                   1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-eby-dev.github.io        46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+brighton-android         32 hrs 14 mins      ████████████████░░░░░░░░░   63.04 % 
+Android-QRBarcode        6 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+Website-Konsultasi-BK-Smk3 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+Android-PointOfSale      2 hrs 44 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+osis-ketintang-website   1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 ```
 
 
- Last Updated on 02/06/2026 20:19:05 UTC
+ Last Updated on 03/06/2026 20:29:53 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
