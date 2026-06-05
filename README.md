@@ -54,7 +54,7 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%2C946%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%2C967%20hrs%2038%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
@@ -64,22 +64,22 @@ because it teaches you how to think.” - Steve Jobs
 
 ```text
 💬 Programming Languages: 
-Other                    32 hrs 7 mins       ███████████████░░░░░░░░░░   61.22 % 
-Kotlin                   8 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-XML                      4 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Java                     3 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
-PHP                      1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+Other                    33 hrs 2 mins       ███████████████░░░░░░░░░░   59.17 % 
+XML                      8 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+Kotlin                   8 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
+Java                     3 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+PHP                      1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 
 🐱‍💻 Projects: 
-brighton-android         41 hrs 52 mins      ████████████████████░░░░░   79.80 % 
-Website-Konsultasi-BK-Smk5 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-osis-ketintang-website   1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
-putri                    1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-skills                   1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+brighton-android         46 hrs 5 mins       █████████████████████░░░░   82.55 % 
+Website-Konsultasi-BK-Smk5 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+osis-ketintang-website   1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+putri                    1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+skills                   1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
 ```
 
 
- Last Updated on 04/06/2026 19:33:22 UTC
+ Last Updated on 05/06/2026 19:08:01 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
