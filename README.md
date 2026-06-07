@@ -54,32 +54,12 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%2C967%20hrs%209%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.95%20million%20lines%20of%20code-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-Other                    31 hrs 15 mins      ███████████████░░░░░░░░░░   58.45 % 
-Kotlin                   8 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
-XML                      8 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-Java                     2 hrs 50 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-PHP                      1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-
-🐱‍💻 Projects: 
-brighton-android         45 hrs 20 mins      █████████████████████░░░░   84.94 % 
-Website-Konsultasi-BK-Smk5 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-osis-ketintang-website   1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-putri                    1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-skills                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-```
-
-
- Last Updated on 06/06/2026 18:17:52 UTC
+ Last Updated on 07/06/2026 18:14:45 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
