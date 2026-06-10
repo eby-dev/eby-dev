@@ -54,32 +54,32 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%2C985%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%2C997%20hrs%2023%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.42%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.43%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    30 hrs 11 mins      ████████████░░░░░░░░░░░░░   47.93 % 
-Kotlin                   14 hrs 41 mins      ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
-XML                      9 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-Java                     3 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
-Markdown                 1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Other                    26 hrs 5 mins       ██████████░░░░░░░░░░░░░░░   41.58 % 
+Kotlin                   18 hrs 13 mins      ███████░░░░░░░░░░░░░░░░░░   29.06 % 
+XML                      9 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+Java                     4 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+Markdown                 3 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
 
 🐱‍💻 Projects: 
-brighton-android         53 hrs 48 mins      █████████████████████░░░░   85.43 % 
-Website-Konsultasi-BK-Smk4 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
-osis-ketintang-website   1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-putri                    1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+brighton-android         59 hrs 6 mins       ████████████████████████░   94.23 % 
+Website-Konsultasi-BK-Smk1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+superpowers              37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+putri                    25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 skills                   23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 ```
 
 
- Last Updated on 09/06/2026 19:27:36 UTC
+ Last Updated on 10/06/2026 19:45:34 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
