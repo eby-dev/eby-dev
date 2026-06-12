@@ -54,32 +54,32 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%2C006%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-11%2C015%20hrs%2035%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.46%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.94%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    23 hrs 21 mins      ██████████░░░░░░░░░░░░░░░   38.74 % 
-Kotlin                   21 hrs 47 mins      █████████░░░░░░░░░░░░░░░░   36.16 % 
-XML                      7 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-Java                     3 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
-Markdown                 3 hrs 19 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+Kotlin                   23 hrs 1 min        ██████████░░░░░░░░░░░░░░░   39.64 % 
+Other                    21 hrs 55 mins      █████████░░░░░░░░░░░░░░░░   37.74 % 
+XML                      4 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+Java                     3 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+Markdown                 3 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
 
 🐱‍💻 Projects: 
-brighton-android         58 hrs 18 mins      ████████████████████████░   96.72 % 
-graphify                 41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
-superpowers              37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-skills                   23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-kotlin-agent-skills      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+brighton-android         56 hrs 4 mins       ████████████████████████░   96.56 % 
+graphify                 43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+superpowers              37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+skills                   23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+kotlin-agent-skills      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 ```
 
 
- Last Updated on 11/06/2026 19:47:53 UTC
+ Last Updated on 12/06/2026 19:19:06 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
