@@ -54,7 +54,7 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%2C034%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-11%2C048%20hrs%2029%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -64,22 +64,22 @@ because it teaches you how to think.” - Steve Jobs
 
 ```text
 💬 Programming Languages: 
-Kotlin                   22 hrs 14 mins      █████████░░░░░░░░░░░░░░░░   37.70 % 
-Other                    22 hrs 5 mins       █████████░░░░░░░░░░░░░░░░   37.46 % 
-XML                      5 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-Java                     3 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-Markdown                 3 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Other                    24 hrs 58 mins      ██████████░░░░░░░░░░░░░░░   39.49 % 
+Kotlin                   22 hrs 9 mins       █████████░░░░░░░░░░░░░░░░   35.05 % 
+XML                      8 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Java                     3 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+Markdown                 1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 
 🐱‍💻 Projects: 
-brighton-android         56 hrs 25 mins      ████████████████████████░   95.69 % 
-graphify                 43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-superpowers              37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-skills                   23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-CocoStudioConnector      20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+brighton-android         62 hrs 13 mins      █████████████████████████   98.41 % 
+CocoStudioConnector      20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+superpowers              19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+revanced-manager         10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+graphify                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 
 
- Last Updated on 14/06/2026 18:26:37 UTC
+ Last Updated on 15/06/2026 20:36:39 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
