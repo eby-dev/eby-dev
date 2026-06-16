@@ -54,7 +54,7 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%2C048%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-11%2C060%20hrs%2054%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -64,22 +64,22 @@ because it teaches you how to think.” - Steve Jobs
 
 ```text
 💬 Programming Languages: 
-Other                    24 hrs 58 mins      ██████████░░░░░░░░░░░░░░░   39.49 % 
-Kotlin                   22 hrs 9 mins       █████████░░░░░░░░░░░░░░░░   35.05 % 
-XML                      8 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-Java                     3 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
-Markdown                 1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+Other                    25 hrs 5 mins       ██████████░░░░░░░░░░░░░░░   39.80 % 
+Kotlin                   19 hrs 57 mins      ████████░░░░░░░░░░░░░░░░░   31.67 % 
+XML                      8 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+Java                     6 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+C++                      1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 
 🐱‍💻 Projects: 
-brighton-android         62 hrs 13 mins      █████████████████████████   98.41 % 
+brighton-android         62 hrs 20 mins      █████████████████████████   98.90 % 
 CocoStudioConnector      20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-superpowers              19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 revanced-manager         10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 graphify                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+android-mvp-architecture 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
 
- Last Updated on 15/06/2026 20:36:39 UTC
+ Last Updated on 16/06/2026 20:24:14 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
