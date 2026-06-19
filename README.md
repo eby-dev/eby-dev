@@ -54,32 +54,32 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%2C071%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-11%2C081%20hrs%2016%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.44%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.49%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    26 hrs 7 mins       ██████████░░░░░░░░░░░░░░░   40.55 % 
-Kotlin                   18 hrs 14 mins      ███████░░░░░░░░░░░░░░░░░░   28.30 % 
-XML                      10 hrs 23 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
-Java                     7 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
-C++                      1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+Other                    27 hrs 52 mins      ███████████░░░░░░░░░░░░░░   42.44 % 
+Kotlin                   18 hrs 5 mins       ███████░░░░░░░░░░░░░░░░░░   27.55 % 
+XML                      9 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
+Java                     7 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+C++                      1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 
 🐱‍💻 Projects: 
-brighton-android         63 hrs 49 mins      █████████████████████████   99.06 % 
-CocoStudioConnector      20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-revanced-manager         10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+brighton-android         65 hrs 6 mins       █████████████████████████   99.11 % 
+CocoStudioConnector      20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+revanced-manager         10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 android-mvp-architecture 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-graphify                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+httptoolkit              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
 
- Last Updated on 18/06/2026 19:45:43 UTC
+ Last Updated on 19/06/2026 19:07:39 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
