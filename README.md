@@ -54,32 +54,32 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%2C143%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-11%2C152%20hrs%2046%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.97%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.61%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    41 hrs 14 mins      ███████████████████░░░░░░   74.72 % 
-Kotlin                   7 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-Java                     3 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
-XML                      58 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
-Markdown                 23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Other                    40 hrs 12 mins      ███████████████████░░░░░░   74.21 % 
+Kotlin                   7 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+Java                     4 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+XML                      59 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+C++                      29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 🐱‍💻 Projects: 
-brighton-android         53 hrs 22 mins      ████████████████████████░   96.74 % 
-bright-staff             57 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-kotlin-agent-skills      25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-superpowers              17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+brighton-android         52 hrs 22 mins      ████████████████████████░   96.68 % 
+bright-staff             57 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+kotlin-agent-skills      25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+superpowers              17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 awesome-claude-skills    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 ```
 
 
- Last Updated on 27/06/2026 18:19:31 UTC
+ Last Updated on 28/06/2026 18:17:47 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
