@@ -54,7 +54,7 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%2C152%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-11%2C163%20hrs%205%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -64,22 +64,22 @@ because it teaches you how to think.” - Steve Jobs
 
 ```text
 💬 Programming Languages: 
-Other                    40 hrs 12 mins      ███████████████████░░░░░░   74.21 % 
-Kotlin                   7 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
-Java                     4 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
-XML                      59 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-C++                      29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+Other                    42 hrs 19 mins      ██████████████████░░░░░░░   72.71 % 
+Kotlin                   7 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+Java                     4 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+C++                      1 hr 2 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+XML                      1 hr                ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 
 🐱‍💻 Projects: 
-brighton-android         52 hrs 22 mins      ████████████████████████░   96.68 % 
-bright-staff             57 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
-kotlin-agent-skills      25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-superpowers              17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-awesome-claude-skills    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+brighton-android         52 hrs 51 mins      ███████████████████████░░   90.82 % 
+eby-dev.github.io        2 hrs 32 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+bright-staff             57 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+kotlin-agent-skills      25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+github-mcp-server        19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 ```
 
 
- Last Updated on 28/06/2026 18:17:47 UTC
+ Last Updated on 29/06/2026 19:17:28 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
