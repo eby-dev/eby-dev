@@ -54,7 +54,7 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%2C173%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-11%2C194%20hrs%2017%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -64,22 +64,22 @@ because it teaches you how to think.” - Steve Jobs
 
 ```text
 💬 Programming Languages: 
-Other                    43 hrs 15 mins      █████████████████░░░░░░░░   68.72 % 
-Kotlin                   9 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
-Java                     4 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
-XML                      1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
-C++                      1 hr 8 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Other                    45 hrs 2 mins       █████████████████░░░░░░░░   68.68 % 
+Kotlin                   10 hrs 5 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Java                     4 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+XML                      2 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+C++                      1 hr 15 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 
 🐱‍💻 Projects: 
-brighton-android         56 hrs 19 mins      ██████████████████████░░░   89.48 % 
-eby-dev.github.io        3 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-bright-staff             57 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
-kotlin-agent-skills      25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-github-mcp-server        19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+brighton-android         59 hrs 47 mins      ███████████████████████░░   91.17 % 
+eby-dev.github.io        3 hrs 47 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+bright-staff             57 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+github-mcp-server        19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+indoweb.epesantren-presen17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 ```
 
 
- Last Updated on 30/06/2026 19:08:51 UTC
+ Last Updated on 01/07/2026 19:10:47 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
