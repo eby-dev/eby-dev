@@ -64,22 +64,22 @@ because it teaches you how to think.” - Steve Jobs
 
 ```text
 💬 Programming Languages: 
-Other                    45 hrs 2 mins       █████████████████░░░░░░░░   68.68 % 
-Kotlin                   10 hrs 5 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Java                     4 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-XML                      2 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-C++                      1 hr 15 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+Other                    48 hrs 15 mins      ██████████████████░░░░░░░   70.25 % 
+Kotlin                   10 hrs 33 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Java                     3 hrs 38 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+XML                      2 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+C++                      1 hr 7 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 
 🐱‍💻 Projects: 
-brighton-android         59 hrs 47 mins      ███████████████████████░░   91.17 % 
-eby-dev.github.io        3 hrs 47 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
-bright-staff             57 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-github-mcp-server        19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
-indoweb.epesantren-presen17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+brighton-android         63 hrs 23 mins      ███████████████████████░░   92.28 % 
+eby-dev.github.io        3 hrs 47 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+github-mcp-server        19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+ab-download-manager      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+indoweb.epesantren-presen17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 ```
 
 
- Last Updated on 01/07/2026 19:10:47 UTC
+ Last Updated on 02/07/2026 18:36:51 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
