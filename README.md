@@ -54,9 +54,9 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%2C223%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-11%2C231%20hrs%2059%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.66%20million%20lines%20of%20code-blue?style=flat)
 
@@ -64,22 +64,22 @@ because it teaches you how to think.” - Steve Jobs
 
 ```text
 💬 Programming Languages: 
-Other                    49 hrs 4 mins       █████████████████░░░░░░░░   69.52 % 
-Kotlin                   13 hrs 2 mins       █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
-XML                      2 hrs 39 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
-Java                     2 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-C++                      1 hr 4 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+Other                    46 hrs 30 mins      █████████████████░░░░░░░░   67.33 % 
+Kotlin                   13 hrs 2 mins       █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
+XML                      2 hrs 39 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Java                     2 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+Markdown                 1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
 
 🐱‍💻 Projects: 
-brighton-android         64 hrs 17 mins      ███████████████████████░░   91.09 % 
-eby-dev.github.io        3 hrs 47 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
-bright-staff             53 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
-ab-download-manager      25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-github-mcp-server        19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+brighton-android         60 hrs 41 mins      ██████████████████████░░░   87.86 % 
+ahmadabuhasan            5 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+eby-dev.github.io        1 hr 20 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+bright-staff             53 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+ab-download-manager      25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 ```
 
 
- Last Updated on 05/07/2026 18:14:29 UTC
+ Last Updated on 06/07/2026 19:08:25 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
