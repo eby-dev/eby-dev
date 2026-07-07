@@ -54,7 +54,7 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%2C231%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-11%2C242%20hrs%2050%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -64,22 +64,22 @@ because it teaches you how to think.” - Steve Jobs
 
 ```text
 💬 Programming Languages: 
-Other                    46 hrs 30 mins      █████████████████░░░░░░░░   67.33 % 
-Kotlin                   13 hrs 2 mins       █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
-XML                      2 hrs 39 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-Java                     2 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
-Markdown                 1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+Other                    47 hrs 22 mins      █████████████████░░░░░░░░   67.96 % 
+Kotlin                   10 hrs 42 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+Markdown                 2 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+XML                      2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+Java                     1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
 
 🐱‍💻 Projects: 
-brighton-android         60 hrs 41 mins      ██████████████████████░░░   87.86 % 
-ahmadabuhasan            5 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-eby-dev.github.io        1 hr 20 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
-bright-staff             53 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-ab-download-manager      25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+brighton-android         62 hrs 33 mins      ██████████████████████░░░   89.74 % 
+ahmadabuhasan            5 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+bright-staff             53 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+ab-download-manager      25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+revanced-manager         8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 ```
 
 
- Last Updated on 06/07/2026 19:08:25 UTC
+ Last Updated on 07/07/2026 19:15:25 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
