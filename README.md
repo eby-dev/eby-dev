@@ -64,22 +64,22 @@ because it teaches you how to think.” - Steve Jobs
 
 ```text
 💬 Programming Languages: 
-Other                    45 hrs 12 mins      █████████████████░░░░░░░░   67.19 % 
-Kotlin                   9 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-Markdown                 2 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-Java                     2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-XML                      1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Other                    42 hrs 37 mins      ███████████████░░░░░░░░░░   61.42 % 
+Kotlin                   10 hrs 55 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+XML                      2 hrs 59 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+Markdown                 2 hrs 49 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+Java                     2 hrs 39 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
 
 🐱‍💻 Projects: 
-brighton-android         60 hrs 8 mins       ██████████████████████░░░   89.38 % 
-ahmadabuhasan            5 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
-bright-staff             53 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-ab-download-manager      25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-revanced-manager         8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+brighton-android         61 hrs 10 mins      ██████████████████████░░░   88.16 % 
+ahmadabuhasan            5 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+connect-with-eby         1 hr 5 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+bright-staff             53 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+ab-download-manager      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 ```
 
 
- Last Updated on 08/07/2026 18:31:06 UTC
+ Last Updated on 09/07/2026 19:01:40 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
