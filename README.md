@@ -54,9 +54,9 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%2C263%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-11%2C281%20hrs%2057%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.64%20million%20lines%20of%20code-blue?style=flat)
 
@@ -64,22 +64,22 @@ because it teaches you how to think.” - Steve Jobs
 
 ```text
 💬 Programming Languages: 
-Other                    42 hrs 37 mins      ███████████████░░░░░░░░░░   61.42 % 
-Kotlin                   10 hrs 55 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-XML                      2 hrs 59 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
-Markdown                 2 hrs 49 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-Java                     2 hrs 39 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+Other                    42 hrs 9 mins       ███████████████░░░░░░░░░░   61.03 % 
+Kotlin                   8 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+Java                     4 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+Markdown                 3 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+XML                      2 hrs 40 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
 
 🐱‍💻 Projects: 
-brighton-android         61 hrs 10 mins      ██████████████████████░░░   88.16 % 
-ahmadabuhasan            5 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-connect-with-eby         1 hr 5 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+brighton-android         60 hrs 37 mins      ██████████████████████░░░   87.77 % 
+ahmadabuhasan            5 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+connect-with-eby         1 hr 5 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 bright-staff             53 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-ab-download-manager      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Free-RASP-Android        10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 ```
 
 
- Last Updated on 09/07/2026 19:01:40 UTC
+ Last Updated on 10/07/2026 18:34:55 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
