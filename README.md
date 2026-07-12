@@ -54,32 +54,32 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%2C281%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-11%2C285%20hrs%2030%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.66%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.67%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    38 hrs 15 mins      ██████████████░░░░░░░░░░░   57.96 % 
-Kotlin                   7 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-Java                     5 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-Markdown                 3 hrs 33 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
-XML                      2 hrs 58 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+Other                    34 hrs 31 mins      ██████████████░░░░░░░░░░░   55.38 % 
+Kotlin                   8 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+Java                     5 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+Markdown                 3 hrs 28 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+XML                      2 hrs 27 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
 
 🐱‍💻 Projects: 
-brighton-android         57 hrs 33 mins      ██████████████████████░░░   87.20 % 
-ahmadabuhasan            5 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-connect-with-eby         1 hr 5 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-bright-staff             53 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-Free-RASP-Android        10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+brighton-android         54 hrs 42 mins      ██████████████████████░░░   87.77 % 
+ahmadabuhasan            5 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+connect-with-eby         1 hr 5 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+Free-RASP-Android        10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+grpc-java                10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 ```
 
 
- Last Updated on 11/07/2026 18:04:46 UTC
+ Last Updated on 12/07/2026 18:09:48 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
