@@ -54,7 +54,7 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%2C285%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-11%2C289%20hrs%2041%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -64,22 +64,22 @@ because it teaches you how to think.” - Steve Jobs
 
 ```text
 💬 Programming Languages: 
-Other                    34 hrs 31 mins      ██████████████░░░░░░░░░░░   55.38 % 
-Kotlin                   8 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Java                     5 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-Markdown                 3 hrs 28 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-XML                      2 hrs 27 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+Other                    30 hrs 27 mins      █████████████░░░░░░░░░░░░   52.71 % 
+Kotlin                   9 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
+Java                     6 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+XML                      2 hrs 27 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+Markdown                 2 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
 
 🐱‍💻 Projects: 
-brighton-android         54 hrs 42 mins      ██████████████████████░░░   87.77 % 
-ahmadabuhasan            5 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-connect-with-eby         1 hr 5 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-Free-RASP-Android        10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-grpc-java                10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+brighton-android         55 hrs 42 mins      ████████████████████████░   96.52 % 
+connect-with-eby         1 hr 5 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+ahmadabuhasan            20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Free-RASP-Android        10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+grpc-java                10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 ```
 
 
- Last Updated on 12/07/2026 18:09:48 UTC
+ Last Updated on 13/07/2026 18:55:09 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
