@@ -54,7 +54,7 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%2C300%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-11%2C324%20hrs%2042%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -64,22 +64,22 @@ because it teaches you how to think.” - Steve Jobs
 
 ```text
 💬 Programming Languages: 
-Other                    28 hrs 30 mins      ████████████░░░░░░░░░░░░░   49.61 % 
-Kotlin                   11 hrs 14 mins      █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
-Java                     9 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
-XML                      2 hrs 38 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
-Markdown                 1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+Other                    27 hrs 50 mins      ███████████░░░░░░░░░░░░░░   45.45 % 
+Java                     16 hrs 53 mins      ███████░░░░░░░░░░░░░░░░░░   27.57 % 
+Kotlin                   9 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+XML                      1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+Markdown                 1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 
 🐱‍💻 Projects: 
-brighton-android         55 hrs 36 mins      ████████████████████████░   96.77 % 
-connect-with-eby         1 hr 5 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-ahmadabuhasan            19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-grpc-java                10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-Free-RASP-Android        8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+brighton-android         60 hrs 41 mins      █████████████████████████   99.09 % 
+Free-RASP-Android        20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+grpc-java                10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+react-native-star-io10   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+FishBun                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
 
- Last Updated on 14/07/2026 18:17:13 UTC
+ Last Updated on 15/07/2026 18:21:20 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
