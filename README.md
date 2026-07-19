@@ -64,22 +64,22 @@ because it teaches you how to think.” - Steve Jobs
 
 ```text
 💬 Programming Languages: 
-Other                    30 hrs 10 mins      ███████████░░░░░░░░░░░░░░   43.84 % 
-Java                     20 hrs 30 mins      ███████░░░░░░░░░░░░░░░░░░   29.81 % 
-Kotlin                   8 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-TOML                     2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-Groovy                   1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+Other                    31 hrs 30 mins      ███████████░░░░░░░░░░░░░░   44.22 % 
+Java                     20 hrs 59 mins      ███████░░░░░░░░░░░░░░░░░░   29.45 % 
+Kotlin                   9 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+TOML                     2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+Markdown                 1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 
 🐱‍💻 Projects: 
-brighton-android         68 hrs 12 mins      █████████████████████████   99.11 % 
-Free-RASP-Android        31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+brighton-android         70 hrs 26 mins      █████████████████████████   98.83 % 
+Free-RASP-Android        31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+ahmadabuhasan            10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 dagger                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-glide                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-FishBun                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+glide                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 
 
- Last Updated on 18/07/2026 18:06:45 UTC
+ Last Updated on 19/07/2026 18:08:25 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
