@@ -54,32 +54,32 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%2C356%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-11%2C377%20hrs%209%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.65%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.13%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    31 hrs 30 mins      ███████████░░░░░░░░░░░░░░   44.22 % 
-Java                     20 hrs 59 mins      ███████░░░░░░░░░░░░░░░░░░   29.45 % 
-Kotlin                   9 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-TOML                     2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-Markdown                 1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Other                    34 hrs 35 mins      ████████████░░░░░░░░░░░░░   46.28 % 
+Java                     22 hrs 40 mins      ████████░░░░░░░░░░░░░░░░░   30.33 % 
+Kotlin                   8 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+Markdown                 2 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+TOML                     1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
 
 🐱‍💻 Projects: 
-brighton-android         70 hrs 26 mins      █████████████████████████   98.83 % 
-Free-RASP-Android        31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-ahmadabuhasan            10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+brighton-android         73 hrs 55 mins      █████████████████████████   98.90 % 
+Free-RASP-Android        31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+ahmadabuhasan            9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 dagger                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 glide                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 
 
- Last Updated on 19/07/2026 18:08:25 UTC
+ Last Updated on 20/07/2026 19:05:54 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
