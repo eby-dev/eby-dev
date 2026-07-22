@@ -54,32 +54,32 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%2C377%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-11%2C381%20hrs%2041%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.12%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.70%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    33 hrs 11 mins      ███████████░░░░░░░░░░░░░░   43.08 % 
-Java                     24 hrs 40 mins      ████████░░░░░░░░░░░░░░░░░   32.03 % 
-Kotlin                   9 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-Markdown                 2 hrs 38 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
-TOML                     1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Other                    31 hrs 20 mins      ███████████░░░░░░░░░░░░░░   44.31 % 
+Java                     22 hrs 5 mins       ████████░░░░░░░░░░░░░░░░░   31.22 % 
+Kotlin                   8 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+Markdown                 2 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+TOML                     1 hr 22 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
 
 🐱‍💻 Projects: 
-brighton-android         76 hrs 12 mins      █████████████████████████   98.93 % 
-Free-RASP-Android        31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-ahmadabuhasan            9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
-dagger                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-glide                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+brighton-android         69 hrs 49 mins      █████████████████████████   98.71 % 
+Free-RASP-Android        31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+ahmadabuhasan            10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Android-QRBarcode        4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+dagger                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
 
- Last Updated on 21/07/2026 18:28:03 UTC
+ Last Updated on 22/07/2026 18:21:21 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
