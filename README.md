@@ -54,14 +54,32 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%2C405%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-11%2C415%20hrs%2058%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.66%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.71%20million%20lines%20of%20code-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    28 hrs 59 mins      ███████████░░░░░░░░░░░░░░   44.98 % 
+Java                     15 hrs 3 mins       ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
+Kotlin                   12 hrs 29 mins      █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
+Markdown                 3 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+XML                      1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+
+🐱‍💻 Projects: 
+brighton-android         63 hrs 38 mins      █████████████████████████   98.72 % 
+Free-RASP-Android        22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+ahmadabuhasan            16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Android-QRBarcode        4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+StackUp                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+```
 
 
- Last Updated on 24/07/2026 18:31:18 UTC
+ Last Updated on 25/07/2026 18:09:41 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
