@@ -54,58 +54,16 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C788%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C795%20hrs%2044%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-301%20hrs%2054%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-306%20hrs%2022%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.99%20million%20lines%20of%20code-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-Other                    32 hrs 7 mins       ███████████░░░░░░░░░░░░░░   42.17 % 
-Kotlin                   15 hrs 20 mins      █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
-Java                     8 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-XML                      5 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
-Groovy                   5 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
-
-🐱‍💻 Projects: 
-brighton-android         51 hrs 43 mins      █████████████████░░░░░░░░   67.92 % 
-bright-staff             11 hrs 32 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-Android-QRBarcode        7 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-Android-PointOfSale      4 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
-docker-android-fastlane  15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 26 hrs 44 mins (35.12%)
-
-✍️ 7,548 lines written by AI, 1,266 lines written by hand (85.64% AI-written)
-
-🔤 200,870,361 Input Tokens, 847,519 Output Tokens
-
-💵 $1044.20 Estimated AI Cost This Week
-
-🧠 51 AI Sessions, 687 AI Prompts
-
-Opus                     7,571 lines         ████████████████████████░   95.70 % 
-Sonnet                   340 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
-Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 85.64% of written lines came from AI
-📚 Verbose Prompter — average 1,512 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 18.85% of changed lines were hand-edited
-```
-
-
- Last Updated on 05/08/2026 18:37:24 UTC
+ Last Updated on 07/08/2026 18:00:24 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
