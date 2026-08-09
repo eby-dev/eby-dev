@@ -54,58 +54,58 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C802%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C808%20hrs%2018%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-311%20hrs%201%20min-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-314%20hrs%2037%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.96%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.84%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    35 hrs 54 mins      ████████████░░░░░░░░░░░░░   47.61 % 
-Kotlin                   17 hrs 51 mins      ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
-XML                      4 hrs 31 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-Java                     4 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-Groovy                   4 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Other                    36 hrs 16 mins      ████████████░░░░░░░░░░░░░   48.75 % 
+Kotlin                   17 hrs 32 mins      ██████░░░░░░░░░░░░░░░░░░░   23.57 % 
+Java                     4 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
+Groovy                   3 hrs 56 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+Markdown                 3 hrs 50 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
 
 🐱‍💻 Projects: 
-brighton-android         49 hrs 51 mins      █████████████████░░░░░░░░   66.09 % 
-bright-staff             12 hrs 55 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-Android-QRBarcode        7 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-Android-PointOfSale      4 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+brighton-android         52 hrs 40 mins      ██████████████████░░░░░░░   70.77 % 
+bright-staff             15 hrs 31 mins      █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
+Android-QRBarcode        4 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+Android-PointOfSale      1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 testing-maju-bareng-AI   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 hrs 51 mins (31.63%)
+⏱ AI Coding Time: 22 hrs 40 mins (30.46%)
 
-✍️ 9,129 lines written by AI, 1,140 lines written by hand (88.9% AI-written)
+✍️ 14,273 lines written by AI, 792 lines written by hand (94.74% AI-written)
 
-🔤 154,273,368 Input Tokens, 782,825 Output Tokens
+🔤 86,618,044 Input Tokens, 703,532 Output Tokens
 
-💵 $839.82 Estimated AI Cost This Week
+💵 $546.83 Estimated AI Cost This Week
 
-🧠 58 AI Sessions, 634 AI Prompts
+🧠 62 AI Sessions, 592 AI Prompts
 
-Opus                     10,477 lines        ████████████████████████░   96.86 % 
-Sonnet                   340 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+Opus                     15,594 lines        ████████████████████████░   97.87 % 
+Sonnet                   340 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 88.9% of written lines came from AI
-📄 Detailed Prompter — average 1,162 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 14.13% of changed lines were hand-edited
+🤖 AI-Driven — 94.74% of written lines came from AI
+📄 Detailed Prompter — average 1,436 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 7.61% of changed lines were hand-edited
 ```
 
 
- Last Updated on 08/08/2026 17:41:33 UTC
+ Last Updated on 09/08/2026 17:42:15 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
