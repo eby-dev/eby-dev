@@ -66,45 +66,45 @@ because it teaches you how to think.” - Steve Jobs
 
 ```text
 💬 Programming Languages: 
-Other                    32 hrs 4 mins       ████████████░░░░░░░░░░░░░   46.13 % 
-Kotlin                   18 hrs 24 mins      ███████░░░░░░░░░░░░░░░░░░   26.48 % 
-Java                     6 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
-Markdown                 4 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
-XML                      4 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
+Other                    34 hrs 8 mins       ████████████░░░░░░░░░░░░░   48.88 % 
+Kotlin                   17 hrs 30 mins      ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
+Java                     6 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+XML                      5 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+Markdown                 3 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
 
 🐱‍💻 Projects: 
-brighton-android         47 hrs 44 mins      █████████████████░░░░░░░░   68.66 % 
-bright-staff             15 hrs 7 mins       █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
-Android-QRBarcode        2 hrs 57 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-jobs4                    1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+brighton-android         44 hrs 25 mins      ████████████████░░░░░░░░░   63.59 % 
+bright-staff             18 hrs 29 mins      ███████░░░░░░░░░░░░░░░░░░   26.47 % 
+Android-QRBarcode        2 hrs 57 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+jobs4                    1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 al-azhar-mobile          32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 hrs 5 mins (34.66%)
+⏱ AI Coding Time: 24 hrs 16 mins (34.76%)
 
-✍️ 22,870 lines written by AI, 694 lines written by hand (97.05% AI-written)
+✍️ 17,008 lines written by AI, 665 lines written by hand (96.24% AI-written)
 
-🔤 3,834,797 Input Tokens, 626,657 Output Tokens
+🔤 3,725,084 Input Tokens, 676,158 Output Tokens
 
-💵 $108.86 Estimated AI Cost This Week
+💵 $108.03 Estimated AI Cost This Week
 
-🧠 51 AI Sessions, 587 AI Prompts
+🧠 51 AI Sessions, 618 AI Prompts
 
-Opus                     23,127 lines        █████████████████████████   100.00 % 
+Opus                     17,259 lines        █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.05% of written lines came from AI
-📝 Concise Prompter — average 447 characters per prompt
+🤖 AI-Driven — 96.24% of written lines came from AI
+📝 Concise Prompter — average 255 characters per prompt
 🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 4.02% of changed lines were hand-edited
+🚀 High AI Trust — 5.15% of changed lines were hand-edited
 ```
 
 
- Last Updated on 15/08/2026 17:32:45 UTC
+ Last Updated on 16/08/2026 17:32:58 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
