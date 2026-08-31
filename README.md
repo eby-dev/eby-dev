@@ -54,11 +54,11 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C901%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C908%20hrs%2033%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-382%20hrs%2035%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-387%20hrs%2040%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.04%20million%20lines%20of%20code-blue?style=flat)
 
@@ -66,45 +66,45 @@ because it teaches you how to think.” - Steve Jobs
 
 ```text
 💬 Programming Languages: 
-Other                    37 hrs 27 mins      ██████████████░░░░░░░░░░░   55.99 % 
-Kotlin                   12 hrs 18 mins      █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
-Markdown                 4 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
-XML                      3 hrs 43 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-Java                     3 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+Other                    38 hrs 20 mins      ██████████████░░░░░░░░░░░   55.78 % 
+Kotlin                   13 hrs 23 mins      █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
+Java                     4 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+Markdown                 3 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+XML                      2 hrs 40 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
 
 🐱‍💻 Projects: 
-brighton-android         33 hrs 34 mins      █████████████░░░░░░░░░░░░   50.20 % 
-testAndroid-TMDB         10 hrs 24 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-Android-PointOfSale      9 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
-Android-QRBarcode        8 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
-testAndroid-MovieTMDB    3 hrs 40 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+brighton-android         36 hrs 54 mins      █████████████░░░░░░░░░░░░   53.72 % 
+testAndroid-TMDB         12 hrs 46 mins      █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
+Android-PointOfSale      9 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+testAndroid-MovieTMDB    3 hrs 40 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+Android-QRBarcode        3 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 hrs 4 mins (33.01%)
+⏱ AI Coding Time: 21 hrs 58 mins (31.97%)
 
-✍️ 10,926 lines written by AI, 565 lines written by hand (95.08% AI-written)
+✍️ 8,119 lines written by AI, 498 lines written by hand (94.22% AI-written)
 
-🔤 6,095,962 Input Tokens, 1,218,179 Output Tokens
+🔤 6,035,994 Input Tokens, 1,143,798 Output Tokens
 
-💵 $231.31 Estimated AI Cost This Week
+💵 $232.27 Estimated AI Cost This Week
 
-🧠 51 AI Sessions, 695 AI Prompts
+🧠 50 AI Sessions, 763 AI Prompts
 
-Sonnet                   7,350 lines         ████████████████░░░░░░░░░   64.77 % 
-Opus                     3,998 lines         █████████░░░░░░░░░░░░░░░░   35.23 % 
+Sonnet                   6,951 lines         ████████████████████░░░░░   81.45 % 
+Opus                     1,583 lines         █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.08% of written lines came from AI
-📄 Detailed Prompter — average 818 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
-🚀 High AI Trust — 6.18% of changed lines were hand-edited
+🤖 AI-Driven — 94.22% of written lines came from AI
+📄 Detailed Prompter — average 856 characters per prompt
+🔁 Iterative Prompter — average 15 prompts per session
+🚀 High AI Trust — 7.99% of changed lines were hand-edited
 ```
 
 
- Last Updated on 30/08/2026 19:50:46 UTC
+ Last Updated on 31/08/2026 21:59:53 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
