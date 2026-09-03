@@ -26,7 +26,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://readme-spotify-status-ahmadabuhasan.vercel.app/api/run-spotify-status" alt="Spotify Status" width="350" />](https://open.spotify.com/user/gr3y7pr12w9ol2dy2ccdb10e7)
+[<img src="https://readme-spotify-status-eby.vercel.app/api/run-spotify-status" alt="Spotify Status" width="350" />](https://open.spotify.com/user/gr3y7pr12w9ol2dy2ccdb10e7)
 
 ##### MOTTO
 
