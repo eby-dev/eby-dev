@@ -54,11 +54,11 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C920%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C933%20hrs%2012%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-396%20hrs%2050%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-404%20hrs%2046%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.85%20million%20lines%20of%20code-blue?style=flat)
 
@@ -66,44 +66,44 @@ because it teaches you how to think.” - Steve Jobs
 
 ```text
 💬 Programming Languages: 
-Other                    35 hrs 3 mins       █████████████░░░░░░░░░░░░   53.89 % 
-Kotlin                   12 hrs 11 mins      █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
-Java                     7 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
-Markdown                 2 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-XML                      1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+Other                    33 hrs 59 mins      █████████████░░░░░░░░░░░░   50.87 % 
+Kotlin                   14 hrs 52 mins      ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
+Java                     7 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+Markdown                 3 hrs 27 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+Groovy                   2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
 
 🐱‍💻 Projects: 
-brighton-android         49 hrs 3 mins       ███████████████████░░░░░░   75.44 % 
-testAndroid-TMDB         6 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-Android-PointOfSale      2 hrs 57 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-bright-staff             2 hrs 56 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
-ahmadabuhasan            53 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+brighton-android         49 hrs 16 mins      ██████████████████░░░░░░░   73.73 % 
+testAndroid-TMDB         6 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+bright-staff             4 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+README-Spotify-Status    1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+eby-dev                  1 hr 2 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 58 mins (33.8%)
+⏱ AI Coding Time: 22 hrs 50 mins (34.18%)
 
-✍️ 1,814 lines written by AI, 1,043 lines written by hand (63.49% AI-written)
+✍️ 2,114 lines written by AI, 1,128 lines written by hand (65.21% AI-written)
 
-🔤 4,768,045 Input Tokens, 827,479 Output Tokens
+🔤 4,034,275 Input Tokens, 867,213 Output Tokens
 
-💵 $199.09 Estimated AI Cost This Week
+💵 $173.31 Estimated AI Cost This Week
 
-🧠 50 AI Sessions, 875 AI Prompts
+🧠 46 AI Sessions, 901 AI Prompts
 
-Opus                     2,217 lines         █████████████████████████   100.00 % 
+Opus                     2,519 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 63.49% of written lines came from AI
-📄 Detailed Prompter — average 773 characters per prompt
-🔁 Iterative Prompter — average 18 prompts per session
-🚀 High AI Trust — 45.42% of changed lines were hand-edited
+⚖️ Balanced with AI — 65.21% of written lines came from AI
+📄 Detailed Prompter — average 534 characters per prompt
+🔁 Iterative Prompter — average 20 prompts per session
+🚀 High AI Trust — 41.82% of changed lines were hand-edited
 ```
 
 
- Last Updated on 03/09/2026 19:52:40 UTC
+ Last Updated on 04/09/2026 19:30:30 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
