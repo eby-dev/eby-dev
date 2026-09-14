@@ -54,58 +54,57 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C959%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C964%20hrs%2040%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-421%20hrs%2049%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-425%20hrs%2036%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.17%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.14%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    40 hrs 23 mins      ████████████████░░░░░░░░░   63.51 % 
-Kotlin                   8 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-Java                     5 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
-XML                      2 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-Markdown                 1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+Other                    37 hrs 27 mins      ███████████████░░░░░░░░░░   60.60 % 
+Kotlin                   8 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+Java                     3 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+XML                      2 hrs 39 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+Markdown                 2 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
 
 🐱‍💻 Projects: 
-brighton-android         48 hrs 56 mins      ███████████████████░░░░░░   76.94 % 
-v3                       4 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
-ahmadabuhasan            3 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-README-Spotify-Status    1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-perpustakaan             1 hr 13 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+brighton-android         45 hrs 47 mins      ███████████████████░░░░░░   74.10 % 
+ahmadabuhasan            8 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+bright-staff             2 hrs 19 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+jobs4                    1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+perpustakaan             1 hr 13 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 34 mins (22.92%)
+⏱ AI Coding Time: 15 hrs 51 mins (25.65%)
 
-✍️ 1,736 lines written by AI, 418 lines written by hand (80.59% AI-written)
+✍️ 7,340 lines written by AI, 409 lines written by hand (94.72% AI-written)
 
-🔤 4,166,696 Input Tokens, 631,397 Output Tokens
+🔤 3,888,396 Input Tokens, 719,621 Output Tokens
 
-💵 $98.55 Estimated AI Cost This Week
+💵 $124.32 Estimated AI Cost This Week
 
-🧠 46 AI Sessions, 562 AI Prompts
+🧠 46 AI Sessions, 531 AI Prompts
 
-Opus                     1,851 lines         █████████████████████████   100.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     7,501 lines         █████████████████████████   100.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 80.59% of written lines came from AI
-📄 Detailed Prompter — average 836 characters per prompt
+🤖 AI-Driven — 94.72% of written lines came from AI
+📄 Detailed Prompter — average 798 characters per prompt
 🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 31.85% of changed lines were hand-edited
+🚀 High AI Trust — 10.48% of changed lines were hand-edited
 ```
 
 
- Last Updated on 13/09/2026 19:23:30 UTC
+ Last Updated on 14/09/2026 21:00:10 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
