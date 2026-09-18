@@ -58,7 +58,7 @@ because it teaches you how to think.” - Steve Jobs
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-442%20hrs%2015%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.15%20million%20lines%20of%20code-blue?style=flat)
 
@@ -104,7 +104,7 @@ Haiku                    0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 17/09/2026 20:16:33 UTC
+ Last Updated on 18/09/2026 19:39:06 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
