@@ -44,8 +44,8 @@ because it teaches you how to think.” - Steve Jobs
 
 | Project | Time |
 | -- | -- |
-| brighton-android (Java X Kotlin) | [![wakatime](https://wakatime.com/badge/user/bbcd646f-1daf-4865-a20e-46d4c803e6f8/project/f6ae2e59-c1e7-4472-9488-29a454ebe4e5.svg)](https://wakatime.com/badge/user/bbcd646f-1daf-4865-a20e-46d4c803e6f8/project/f6ae2e59-c1e7-4472-9488-29a454ebe4e5) |
-| bright-staff (Kotlin) | [![wakatime](https://wakatime.com/badge/user/bbcd646f-1daf-4865-a20e-46d4c803e6f8/project/f089b57d-f2ae-4a1c-ae19-a066828f5559.svg)](https://wakatime.com/badge/user/bbcd646f-1daf-4865-a20e-46d4c803e6f8/project/f089b57d-f2ae-4a1c-ae19-a066828f5559) |
+| A | B |
+| C | D |
 
 </details>
 
