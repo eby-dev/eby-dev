@@ -54,36 +54,36 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C053%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C053%20hrs%2053%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-491%20hrs%2054%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.24%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.53%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    18 hrs 43 mins      ████████████████████████░   94.08 % 
-Astro                    49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
-Markdown                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
-Kotlin                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Other                    21 hrs 26 mins      ███████████████████████░░   93.34 % 
+Astro                    54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+JavaScript               17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Markdown                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+Kotlin                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🐱‍💻 Projects: 
-brighton-android         12 hrs 25 mins      ████████████████░░░░░░░░░   62.47 % 
-bright-staff             3 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
-connect-with-eby         1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
-ahmadabuhasan            30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-JetpackCompose-FaceRecogn22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+brighton-android         12 hrs 25 mins      ██████████████░░░░░░░░░░░   54.10 % 
+bright-staff             3 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+JetpackCompose-FaceRecogn2 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+vscode-icons             1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+ahmadabuhasan            32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 26 mins (7.21%)
+⏱ AI Coding Time: 1 hr 26 mins (6.25%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -104,7 +104,7 @@ GPT                      0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 20/10/2026 20:37:47 UTC
+ Last Updated on 21/10/2026 20:48:47 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
