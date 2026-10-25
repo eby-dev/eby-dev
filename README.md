@@ -54,7 +54,7 @@ because it teaches you how to think.” - Steve Jobs
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C057%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C057%20hrs%2041%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-495%20hrs%206%20mins-blue?style=flat)
 
@@ -66,24 +66,24 @@ because it teaches you how to think.” - Steve Jobs
 
 ```text
 💬 Programming Languages: 
-Other                    21 hrs 51 mins      █████████████████████░░░░   82.49 % 
-Astro                    1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-Markdown                 56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-Kotlin                   34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-JSON                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+Other                    24 hrs 28 mins      █████████████████████░░░░   84.03 % 
+Astro                    1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+Markdown                 56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+Kotlin                   35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+JSON                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 
 🐱‍💻 Projects: 
-brighton-android         9 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   34.48 % 
-ahmadabuhasan            3 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
-devpocket-android        3 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-JetpackCompose-FaceRecogn2 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
-vscode-icons             2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+brighton-android         6 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
+peach                    6 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
+ahmadabuhasan            3 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+devpocket-android        3 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+JetpackCompose-FaceRecogn2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 11 mins (12.06%)
+⏱ AI Coding Time: 3 hrs 11 mins (10.97%)
 
 ✍️ 1,808 lines written by AI, 9 lines written by hand (99.5% AI-written)
 
@@ -104,7 +104,7 @@ Opus                     0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 24/10/2026 19:35:42 UTC
+ Last Updated on 25/10/2026 19:48:30 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
