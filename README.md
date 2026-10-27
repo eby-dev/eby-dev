@@ -66,24 +66,24 @@ because it teaches you how to think.” - Steve Jobs
 
 ```text
 💬 Programming Languages: 
-Other                    29 hrs 26 mins      █████████████████████░░░░   85.95 % 
-Astro                    1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
-Markdown                 1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-Kotlin                   35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-JSON                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+Other                    30 hrs 54 mins      ██████████████████████░░░   87.78 % 
+Markdown                 1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+Astro                    58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+Kotlin                   35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+JSON                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 
 🐱‍💻 Projects: 
-peach                    13 hrs 53 mins      ██████████░░░░░░░░░░░░░░░   40.58 % 
-ahmadabuhasan            3 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-v3                       3 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-devpocket-android        3 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-JetpackCompose-FaceRecogn2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+peach                    13 hrs 53 mins      ██████████░░░░░░░░░░░░░░░   39.47 % 
+v3                       6 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
+ahmadabuhasan            3 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+devpocket-android        3 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
+vscode-icons             2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 24 mins (9.95%)
+⏱ AI Coding Time: 3 hrs 24 mins (9.68%)
 
 ✍️ 1,808 lines written by AI, 9 lines written by hand (99.5% AI-written)
 
@@ -104,7 +104,7 @@ Opus                     0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 26/10/2026 21:48:42 UTC
+ Last Updated on 27/10/2026 21:28:07 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
