@@ -66,45 +66,45 @@ because it teaches you how to think.” - Steve Jobs
 
 ```text
 💬 Programming Languages: 
-Other                    30 hrs 20 mins      █████████████████████░░░░   85.39 % 
-Markdown                 1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-Astro                    53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-Kotlin                   35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-JSON                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+Other                    27 hrs 37 mins      ███████████████████████░░   91.57 % 
+Markdown                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+Kotlin                   35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+PowerShell               25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Python                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 
 🐱‍💻 Projects: 
-peach                    13 hrs 53 mins      ██████████░░░░░░░░░░░░░░░   39.11 % 
-v3                       9 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   26.22 % 
-ahmadabuhasan            3 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-devpocket-android        3 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
-uts                      1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+peach                    13 hrs 53 mins      ████████████░░░░░░░░░░░░░   46.07 % 
+v3                       9 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   30.89 % 
+devpocket-android        3 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+ahmadabuhasan            1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+flutter                  56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 33 mins (12.85%)
+⏱ AI Coding Time: 2 hrs 46 mins (9.18%)
 
-✍️ 2,240 lines written by AI, 769 lines written by hand (74.44% AI-written)
+✍️ 1,903 lines written by AI, 765 lines written by hand (71.33% AI-written)
 
-🔤 1,868,500 Input Tokens, 312,321 Output Tokens
+🔤 1,185,130 Input Tokens, 163,116 Output Tokens
 
-💵 $1.55 Estimated AI Cost This Week
+💵 $1.16 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 139 AI Prompts
+🧠 7 AI Sessions, 80 AI Prompts
 
-GPT                      2,313 lines         █████████████████████████   100.00 % 
+GPT                      1,929 lines         █████████████████████████   100.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 74.44% of written lines came from AI
-📝 Concise Prompter — average 172 characters per prompt
-🔁 Iterative Prompter — average 15 prompts per session
-🚀 High AI Trust — 39.78% of changed lines were hand-edited
+🤖 AI-Driven — 71.33% of written lines came from AI
+📝 Concise Prompter — average 212 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 44.14% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/10/2026 21:52:12 UTC
+ Last Updated on 29/10/2026 21:59:50 UTC
 <!--END_SECTION:waka-->
 
 #### Watch my contribution graph get eaten by the snake 🐍
