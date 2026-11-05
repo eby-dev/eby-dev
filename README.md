@@ -33,32 +33,32 @@ ___
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C065%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C066%20hrs%205%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-58-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-74-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.42%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.43%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    24 hrs 17 mins      ████████████████████░░░░░   78.07 % 
-Markdown                 3 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-YAML                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-PHP                      34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-PowerShell               25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+Other                    24 hrs 35 mins      ████████████████████░░░░░   78.28 % 
+Markdown                 4 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+YAML                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+PHP                      34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+JSON                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 
 🐱‍💻 Projects: 
-v3                       11 hrs 15 mins      █████████░░░░░░░░░░░░░░░░   36.16 % 
-cat                      6 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
-TravisCI-Android         3 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-cat-informatika          3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-eby-dev                  1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+v3                       8 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   27.08 % 
+cat                      6 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
+TravisCI-Android         4 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+eby-dev                  3 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+cat-informatika          3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
 ```
 
 
- Last Updated on 04/11/2026 22:53:41 UTC
+ Last Updated on 05/11/2026 22:56:34 UTC
 <!--END_SECTION:waka-->
 
 </details>
