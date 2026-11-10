@@ -35,7 +35,7 @@ ___
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%2C066%20hrs%2033%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-75-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-74-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.37%20million%20lines%20of%20code-blue?style=flat)
 
@@ -43,22 +43,22 @@ ___
 
 ```text
 💬 Programming Languages: 
-Other                    21 hrs 41 mins      █████████████████████░░░░   85.72 % 
-Markdown                 2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
-YAML                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
-PHP                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-SQL                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Other                    22 hrs 41 mins      ██████████████████████░░░   86.26 % 
+Markdown                 2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+YAML                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+PHP                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+SQL                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 🐱‍💻 Projects: 
-TravisCI-Android         4 hrs               ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
-tradingview-mcp          3 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-eby-dev                  3 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
-TokoApp                  3 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
-cat-informatika          3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+ahmadabuhasan            4 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
+TravisCI-Android         4 hrs               ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+tradingview-mcp          3 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+eby-dev                  3 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+TokoApp                  3 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
 ```
 
 
- Last Updated on 08/11/2026 21:15:31 UTC
+ Last Updated on 10/11/2026 00:54:00 UTC
 <!--END_SECTION:waka-->
 
 </details>
