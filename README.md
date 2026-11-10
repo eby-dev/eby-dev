@@ -43,22 +43,22 @@ ___
 
 ```text
 💬 Programming Languages: 
-Other                    22 hrs 41 mins      ██████████████████████░░░   86.26 % 
-Markdown                 2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-YAML                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
-PHP                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
-SQL                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Other                    14 hrs 39 mins      ██████████████████████░░░   88.58 % 
+Markdown                 1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+YAML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+SQL                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-ahmadabuhasan            4 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
-TravisCI-Android         4 hrs               ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-tradingview-mcp          3 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-eby-dev                  3 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-TokoApp                  3 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+ahmadabuhasan            5 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   33.48 % 
+tradingview-mcp          3 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   23.95 % 
+TokoApp                  3 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
+eby-dev                  2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+UjianCT_SkeletonMhs      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
 ```
 
 
- Last Updated on 10/11/2026 00:54:00 UTC
+ Last Updated on 10/11/2026 22:36:35 UTC
 <!--END_SECTION:waka-->
 
 </details>
