@@ -33,9 +33,9 @@ ___
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C066%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C066%20hrs%2038%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-74-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-72-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.37%20million%20lines%20of%20code-blue?style=flat)
 
@@ -43,22 +43,20 @@ ___
 
 ```text
 💬 Programming Languages: 
-Other                    14 hrs 39 mins      ██████████████████████░░░   88.58 % 
-Markdown                 1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-YAML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-SQL                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Other                    15 hrs 9 mins       ████████████████████████░   95.45 % 
+Markdown                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+SQL                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 🐱‍💻 Projects: 
-ahmadabuhasan            5 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   33.48 % 
-tradingview-mcp          3 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   23.95 % 
-TokoApp                  3 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
-eby-dev                  2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
-UjianCT_SkeletonMhs      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+ahmadabuhasan            9 hrs 34 mins       ███████████████░░░░░░░░░░   60.32 % 
+TokoApp                  3 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   22.94 % 
+tradingview-mcp          1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+UjianCT_SkeletonMhs      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+v3                       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 ```
 
 
- Last Updated on 10/11/2026 22:36:35 UTC
+ Last Updated on 11/11/2026 23:40:28 UTC
 <!--END_SECTION:waka-->
 
 </details>
