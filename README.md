@@ -35,7 +35,7 @@ ___
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%2C066%20hrs%2038%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-72-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-71-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.37%20million%20lines%20of%20code-blue?style=flat)
 
@@ -43,20 +43,20 @@ ___
 
 ```text
 💬 Programming Languages: 
-Other                    15 hrs 9 mins       ████████████████████████░   95.45 % 
-Markdown                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-SQL                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+Other                    14 hrs 7 mins       ████████████████████████░   96.28 % 
+Markdown                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🐱‍💻 Projects: 
-ahmadabuhasan            9 hrs 34 mins       ███████████████░░░░░░░░░░   60.32 % 
-TokoApp                  3 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   22.94 % 
-tradingview-mcp          1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-UjianCT_SkeletonMhs      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
-v3                       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+ahmadabuhasan            14 hrs 30 mins      █████████████████████████   98.83 % 
+v3                       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+brighton-android         2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+indoweb.epesantren-wali  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+flutter                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 ```
 
 
- Last Updated on 11/11/2026 23:40:28 UTC
+ Last Updated on 12/11/2026 22:57:50 UTC
 <!--END_SECTION:waka-->
 
 </details>
