@@ -43,19 +43,19 @@ ___
 
 ```text
 💬 Programming Languages: 
-Other                    14 hrs 21 mins      █████████████████████████   99.02 % 
-Markdown                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+Other                    16 hrs              █████████████████████████   99.10 % 
+Markdown                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 
 🐱‍💻 Projects: 
-ahmadabuhasan            14 hrs 17 mins      █████████████████████████   98.63 % 
-v3                       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-brighton-android         2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-indoweb.epesantren-wali  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-flutter                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+ahmadabuhasan            15 hrs 56 mins      █████████████████████████   98.75 % 
+v3                       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+brighton-android         2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+indoweb.epesantren-wali  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+flutter                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 
 
- Last Updated on 15/11/2026 21:49:12 UTC
+ Last Updated on 17/11/2026 01:02:44 UTC
 <!--END_SECTION:waka-->
 
 </details>
