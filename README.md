@@ -33,29 +33,32 @@ ___
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C067%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C069%20hrs%2028%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-69-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.13%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.49%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    19 hrs 23 mins      ████████████████████████░   97.68 % 
-Markdown                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+Other                    21 hrs 48 mins      ██████████████████████░░░   88.51 % 
+Markdown                 55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+Ruby                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+Kotlin                   17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Java                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 
 🐱‍💻 Projects: 
-ahmadabuhasan            19 hrs 38 mins      █████████████████████████   98.88 % 
-v3                       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
-brighton-android         2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-indoweb.epesantren-wali  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-flutter                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+ahmadabuhasan            19 hrs 56 mins      ████████████████████░░░░░   80.93 % 
+Android-PointOfSale      3 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+Android-QRBarcode        50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+v3                       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+noche-brighton           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 ```
 
 
- Last Updated on 18/11/2026 00:05:51 UTC
+ Last Updated on 18/11/2026 23:39:50 UTC
 <!--END_SECTION:waka-->
 
 </details>
