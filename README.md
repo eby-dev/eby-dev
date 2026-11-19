@@ -33,9 +33,9 @@ ___
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C069%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C070%20hrs%2027%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.49%20million%20lines%20of%20code-blue?style=flat)
 
@@ -43,22 +43,22 @@ ___
 
 ```text
 💬 Programming Languages: 
-Other                    21 hrs 48 mins      ██████████████████████░░░   88.51 % 
-Markdown                 55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-Ruby                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-Kotlin                   17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-Java                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Other                    22 hrs 39 mins      █████████████████████░░░░   85.55 % 
+Markdown                 55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+Ruby                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Kotlin                   37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+YAML                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 
 🐱‍💻 Projects: 
-ahmadabuhasan            19 hrs 56 mins      ████████████████████░░░░░   80.93 % 
-Android-PointOfSale      3 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-Android-QRBarcode        50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-v3                       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-noche-brighton           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+ahmadabuhasan            15 hrs 1 min        ██████████████░░░░░░░░░░░   56.70 % 
+Android-QRBarcode        5 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   21.66 % 
+Android-PointOfSale      4 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+noche-brighton           1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+kopicica                 19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 ```
 
 
- Last Updated on 18/11/2026 23:39:50 UTC
+ Last Updated on 19/11/2026 23:43:27 UTC
 <!--END_SECTION:waka-->
 
 </details>
