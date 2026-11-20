@@ -33,7 +33,7 @@ ___
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C070%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C070%20hrs%2034%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
@@ -43,22 +43,22 @@ ___
 
 ```text
 💬 Programming Languages: 
-Other                    22 hrs 39 mins      █████████████████████░░░░   85.55 % 
-Markdown                 55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-Ruby                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-Kotlin                   37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
-YAML                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+Other                    30 hrs 24 mins      ██████████████████████░░░   88.53 % 
+Markdown                 55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+Ruby                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+Kotlin                   37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+JavaScript               20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 
 🐱‍💻 Projects: 
-ahmadabuhasan            15 hrs 1 min        ██████████████░░░░░░░░░░░   56.70 % 
-Android-QRBarcode        5 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   21.66 % 
-Android-PointOfSale      4 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
-noche-brighton           1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-kopicica                 19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+ahmadabuhasan            14 hrs 23 mins      ██████████░░░░░░░░░░░░░░░   41.93 % 
+watermarkktp             6 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
+Android-QRBarcode        5 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
+Android-PointOfSale      4 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+noche-brighton           3 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
 ```
 
 
- Last Updated on 19/11/2026 23:43:27 UTC
+ Last Updated on 20/11/2026 23:20:40 UTC
 <!--END_SECTION:waka-->
 
 </details>
