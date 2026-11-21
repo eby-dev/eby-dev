@@ -43,22 +43,22 @@ ___
 
 ```text
 💬 Programming Languages: 
-Other                    30 hrs 24 mins      ██████████████████████░░░   88.53 % 
-Markdown                 55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
-Ruby                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-Kotlin                   37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-JavaScript               20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+Other                    29 hrs 35 mins      ██████████████████████░░░   88.25 % 
+Markdown                 55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+Ruby                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Kotlin                   37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+JavaScript               20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 
 🐱‍💻 Projects: 
-ahmadabuhasan            14 hrs 23 mins      ██████████░░░░░░░░░░░░░░░   41.93 % 
-watermarkktp             6 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
-Android-QRBarcode        5 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
-Android-PointOfSale      4 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-noche-brighton           3 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+ahmadabuhasan            13 hrs 35 mins      ██████████░░░░░░░░░░░░░░░   40.52 % 
+watermarkktp             6 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
+Android-QRBarcode        5 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+Android-PointOfSale      4 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+noche-brighton           3 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
 ```
 
 
- Last Updated on 20/11/2026 23:20:40 UTC
+ Last Updated on 21/11/2026 22:19:52 UTC
 <!--END_SECTION:waka-->
 
 </details>
