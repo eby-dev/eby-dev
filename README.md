@@ -33,9 +33,9 @@ ___
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C070%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C071%20hrs-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.49%20million%20lines%20of%20code-blue?style=flat)
 
@@ -43,22 +43,22 @@ ___
 
 ```text
 💬 Programming Languages: 
-Other                    28 hrs 43 mins      ██████████████████████░░░   88.12 % 
-Markdown                 51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
-Ruby                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-Kotlin                   37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
-JavaScript               20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Other                    26 hrs 50 mins      ██████████████████████░░░   86.20 % 
+Markdown                 51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+Ruby                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+Kotlin                   44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+JavaScript               38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 
 🐱‍💻 Projects: 
-ahmadabuhasan            12 hrs 42 mins      ██████████░░░░░░░░░░░░░░░   38.97 % 
-watermarkktp             6 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
-Android-QRBarcode        5 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
-Android-PointOfSale      4 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-noche-brighton           3 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+ahmadabuhasan            8 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   28.17 % 
+watermarkktp             7 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   23.42 % 
+Android-QRBarcode        5 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
+Android-PointOfSale      4 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+noche-brighton           3 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
 ```
 
 
- Last Updated on 22/11/2026 22:37:54 UTC
+ Last Updated on 24/11/2026 03:31:23 UTC
 <!--END_SECTION:waka-->
 
 </details>
