@@ -35,7 +35,7 @@ ___
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%2C072%20hrs%2018%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.92%20million%20lines%20of%20code-blue?style=flat)
 
@@ -43,22 +43,22 @@ ___
 
 ```text
 💬 Programming Languages: 
-Other                    24 hrs 50 mins      █████████████████████░░░░   82.47 % 
-Kotlin                   1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-Markdown                 50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-Ruby                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-JavaScript               38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+Other                    20 hrs 58 mins      ██████████████████████░░░   88.10 % 
+Kotlin                   1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+JavaScript               38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+Markdown                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+YAML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 
 🐱‍💻 Projects: 
-watermarkktp             7 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   24.21 % 
-Android-QRBarcode        5 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
-ahmadabuhasan            4 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-Android-PointOfSale      4 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-noche-brighton           3 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+watermarkktp             7 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   30.59 % 
+Android-QRBarcode        4 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+testAndroid-MovieTMDB    3 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+noche-brighton           3 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+testAndroid-TMDB         2 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
 ```
 
 
- Last Updated on 25/11/2026 01:34:23 UTC
+ Last Updated on 26/11/2026 01:09:09 UTC
 <!--END_SECTION:waka-->
 
 </details>
