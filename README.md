@@ -43,22 +43,22 @@ ___
 
 ```text
 💬 Programming Languages: 
-Other                    20 hrs 58 mins      ██████████████████████░░░   88.10 % 
-Kotlin                   1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
-JavaScript               38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
-Markdown                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-YAML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+Other                    16 hrs 49 mins      ███████████████████████░░   90.15 % 
+Kotlin                   50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+JavaScript               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+Markdown                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+Python                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 🐱‍💻 Projects: 
-watermarkktp             7 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   30.59 % 
-Android-QRBarcode        4 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
-testAndroid-MovieTMDB    3 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-noche-brighton           3 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-testAndroid-TMDB         2 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+watermarkktp             7 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   39.01 % 
+testAndroid-MovieTMDB    5 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   29.06 % 
+testAndroid-TMDB         2 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+noche-brighton           2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+brighton-android         45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
 ```
 
 
- Last Updated on 26/11/2026 01:09:09 UTC
+ Last Updated on 27/11/2026 01:15:02 UTC
 <!--END_SECTION:waka-->
 
 </details>
